@@ -6,7 +6,7 @@ This gives 2 deployment options:
 
 Clone repo and create a virtual environment
 ```
-$ git clone 
+$ git clone https://github.com/MeghashyamAVV/PFAC-Using-NLP.git
 $ cd PFAC-Using-NLP
 $ python3 -m venv venv
 $ . venv/bin/activate
