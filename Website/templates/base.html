@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Financial Chatbot</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/chatbox-icon.png') }}" type="image/x-icon">
+</head>
+<body>
+<div class="container">
+    <div class="chatbox">
+        <div class="chatbox__support">
+            <div class="chatbox__header">
+                <div class="chatbox__image--header">
+                    <img src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png" alt="image">
+                </div>
+                <div class="chatbox__content--header">
+                    <h4 class="chatbox__heading--header">Chat support</h4>
+                    <p class="chatbox__description--header">Hi. My name is Sam.</p>
+                </div>
+            </div>
+            <div class="chatbox__messages">
+            </div>
+            <div class="chatbox__footer">
+                <input type="text" placeholder="Write a message...">
+                <button class="chatbox__send--footer send__button">Send</button>
+            </div>
+        </div>
+        <div class="chatbox__button">
+            <button><img src="{{ url_for('static', filename='images/chatbox-icon.png') }}" /></button>
+        </div>
+    </div>
+</div>
+
+<audio id="audioPlayer" src="images/pop.mp3"></audio>
+
+<div class = "textarea">
+    <div class = "heading",>
+        <p> Welcome to Financial Assistance Chatbot !!</p>
+    </div>
+    <div class = "info">
+        <p> Sound Financial Guidance using Sam the Bot</p>
+    </div>
+    <div class = "bot_loc">
+        <p>Start your conversation Now</p>
+    </div>
+</div>
+
+    <script>
+        $SCRIPT_ROOT = {{ request.script_root|tojson }};
+    </script>
+    <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
+
+</body>
+</html>

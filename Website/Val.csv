@@ -1,0 +1,3081 @@
+SNO,Unnamed: 0,id,text,label,Generalization
+0,0,0,locate card?,23,valid
+1,1,1,"still not received new card, ordered week ago.",23,valid
+2,2,2,ordered card not arrived. help please!,23,valid
+3,3,3,way know card arrive?,23,valid
+4,4,4,card not arrived yet.,23,valid
+5,5,5,get card?,23,valid
+6,6,6,know tracking number new card sent me?,23,valid
+7,7,7,not received card,23,valid
+8,8,8,still waiting card,23,valid
+9,9,9,normal wait week new card?,23,valid
+10,10,10,track card?,23,valid
+11,11,11,long card delivery take?,23,valid
+12,12,12,still don't card 2 weeks. do?,23,valid
+13,13,13,still waiting new card,23,valid
+14,14,14,still waiting card 1 week. ok?,23,valid
+15,15,15,"waiting longer expected bank card, could provide information arrive?",23,valid
+16,16,16,i've waiting longer expected card.,23,valid
+17,17,17,hasn't card delivered?,23,valid
+18,18,18,new card? waiting week!,23,valid
+19,19,19,card still hasn't arrived 2 weeks. lost?,23,valid
+20,20,20,"not get card yet, lost?",23,valid
+21,21,21,status card ordered.,23,valid
+22,22,22,long new card take arrive?,23,valid
+23,23,23,ordered card 2 weeks ago still isn't here? do?,23,valid
+24,24,24,"card not arrived yet, it?",23,valid
+25,25,25,tracking number card mailed?,23,valid
+26,26,26,think something went wrong card delivery haven't received yet.,23,valid
+27,27,27,"i'm still waiting delivery new card, taking long?",23,valid
+28,28,28,"ordered card week ago, still not here. do?",23,valid
+29,29,29,want track card sent,23,valid
+30,30,30,card hasn't arrived yet.,23,valid
+31,31,31,expecting new card wondering haven't received yet?,23,valid
+32,32,32,know card arrive?,23,valid
+33,33,33,i'm still waiting card delivered.,23,valid
+34,34,34,card sent way track it?,23,valid
+35,35,35,ordered card still haven't received it. two weeks. do?,23,valid
+36,36,36,"i'm starting think card lost still hasn't arrived, help?",23,valid
+37,37,37,tracking info available?,23,valid
+38,38,38,tracking number card sent?,23,valid
+39,39,39,tracking number card sent me?,23,valid
+40,40,40,card show app?,37,valid
+41,41,41,would like reactivate card.,37,valid
+42,42,42,link new card?,37,valid
+43,43,43,"received card, help put app?",37,valid
+44,44,44,link card already have?,37,valid
+45,45,45,"received new card, don't see app anywhere. do?",37,valid
+46,46,46,re-add card app?,37,valid
+47,47,47,add card account?,37,valid
+48,48,48,put old card back system? found it/,37,valid
+49,49,49,"one cards already, link it?",37,valid
+50,50,50,link new card?,37,valid
+51,51,51,link existing card?,37,valid
+52,52,52,link one card one already?,37,valid
+53,53,53,add card app?,37,valid
+54,54,54,link new card?,37,valid
+55,55,55,"hello, found card misplaced need reactive it, that?",37,valid
+56,56,56,tell link one cards already have?,37,valid
+57,57,57,view card received app?,37,valid
+58,58,58,website go link card?,37,valid
+59,59,59,"found card, add app?",37,valid
+60,60,60,link credit card you?,37,valid
+61,61,61,i've received card need know sync app.,37,valid
+62,62,62,"found card, would like reactivate it.",37,valid
+63,63,63,link new card?,37,valid
+64,64,64,reactivate lost card found morning jacket pocket?,37,valid
+65,65,65,link already existing card?,37,valid
+66,66,66,app show card received.,37,valid
+67,67,67,link card already have?,37,valid
+68,68,68,would like link card. it?,37,valid
+69,69,69,please show find location link card?,37,valid
+70,70,70,go want link new card?,37,valid
+71,71,71,way make old card usable app?,37,valid
+72,72,72,reactivate card thought lost?,37,valid
+73,73,73,link card,37,valid
+74,74,74,need go app enter card info?,37,valid
+75,75,75,found lost stolen card. way link card account app again?,37,valid
+76,76,76,"could help reactivate card? previously lost, found morning jacket.",37,valid
+77,77,77,"already one cards, link them?",37,valid
+78,78,78,link replacement card?,37,valid
+79,79,79,link another card account?,37,valid
+80,80,80,need know exchange rates.,4,valid
+81,81,81,exchange rates offer?,4,valid
+82,82,82,come exchange rates?,4,valid
+83,83,83,guys acquire exchange rate?,4,valid
+84,84,84,find exchange rate?,4,valid
+85,85,85,international exchange rates?,4,valid
+86,86,86,often exchange rates change,4,valid
+87,87,87,please advise exchange rate,4,valid
+88,88,88,exchange rates calculated?,4,valid
+89,89,89,exchange rates based,4,valid
+90,90,90,exchange rates,4,valid
+91,91,91,current exchange rates?,4,valid
+92,92,92,explain exchange rate policy me?,4,valid
+93,93,93,good time exchange?,4,valid
+94,94,94,exchange rate like app?,4,valid
+95,95,95,list exchange rates?,4,valid
+96,96,96,tell get exchange rates?,4,valid
+97,97,97,get curreng foreign exchange rate?,4,valid
+98,98,98,currencies exchange rate calculated in?,4,valid
+99,99,99,get exchange rates from?,4,valid
+100,100,100,base exchange rates?,4,valid
+101,101,101,exchange rate use?,4,valid
+102,102,102,exchange rates are?,4,valid
+103,103,103,base exchange rates on?,4,valid
+104,104,104,foreign exchange rate use?,4,valid
+105,105,105,much get exchange rate?,4,valid
+106,106,106,exchange rate would be?,4,valid
+107,107,107,exchange rate like?,4,valid
+108,108,108,exchange rates work?,4,valid
+109,109,109,exchange rate?,4,valid
+110,110,110,guys exchange rates come from?,4,valid
+111,111,111,determining exchange rates?,4,valid
+112,112,112,i'm trying figure current exchange rate.,4,valid
+113,113,113,getting exchange rates?,4,valid
+114,114,114,tell foreign exchange rate?,4,valid
+115,115,115,exchange rates change,4,valid
+116,116,116,kind foreign exchange rate get exchange money?,4,valid
+117,117,117,foreign exchange rate?,4,valid
+118,118,118,rate get determined,4,valid
+119,119,119,current exchange rate me?,4,valid
+120,120,120,purchased something foreign currency rate applied wrong,18,valid
+121,121,121,made currency exchange think charged been.,18,valid
+122,122,122,card payment exchange rate wrong,18,valid
+123,123,123,exchange rate wrong bought something outside country.,18,valid
+124,124,124,exchange rate purchase wrong.,18,valid
+125,125,125,rate low. sure using right exchange rate.,18,valid
+126,126,126,"bought something, exchange rate looks wrong.",18,valid
+127,127,127,rate applied foreign purchase incorrect,18,valid
+128,128,128,bought something foreign currency rate applied wrong!,18,valid
+129,129,129,exchange went wrong. swapped russian ruble uk pounds charged much.,18,valid
+130,130,130,not apply correct exchange rate item bought.,18,valid
+131,131,131,rate exchange card payment incorrect,18,valid
+132,132,132,rate currency exchange wrong bought something.,18,valid
+133,133,133,exchange rate wrong purchase something abroad?,18,valid
+134,134,134,bought item noticed exchange rate not correct.,18,valid
+135,135,135,bought something overseas wrong exchange rate statement.,18,valid
+136,136,136,exchange rate transaction last saturday seems wrong got charged extra. please fix.,18,valid
+137,137,137,exchange rate card payment wrong,18,valid
+138,138,138,charged ?,18,valid
+139,139,139,purchased item exchange rate given incorrect.,18,valid
+140,140,140,don't think card payment exchange rate correct.,18,valid
+141,141,141,"made purchase last saturday, charged extra. receive right exchange rate?",18,valid
+142,142,142,charged wrong currency exchange purchase.,18,valid
+143,143,143,believe card payment exchange rate incorrect.,18,valid
+144,144,144,"hi, overcharged payment last saturday. guess exchange rate wrong.",18,valid
+145,145,145,exchange rate seems transaction,18,valid
+146,146,146,"exchange rate given wasn't correct, purchased item",18,valid
+147,147,147,"hi, don't think exchange rate right. need check official interbank exchange please.",18,valid
+148,148,148,i'm pretty sure something went wrong exchange. changed russian ruble uk pounds charged way much!,18,valid
+149,149,149,wasn't applied correct exchange rate item bought,18,valid
+150,150,150,conversion value card payments incorrect.,18,valid
+151,151,151,wrong exchange rate used bought something foriegn currency.,18,valid
+152,152,152,paid something foreign currency noticed exchange rate incorrect.,18,valid
+153,153,153,incorrect rate used foreign purchase,18,valid
+154,154,154,exchange rate incorrect item recently bought?,18,valid
+155,155,155,exchange rate wrong item bought?,18,valid
+156,156,156,check exchange rate applied transaction?,18,valid
+157,157,157,exchange rate totally wrong card payment,18,valid
+158,158,158,wrong rate applied item bought currency different mine. changed?,18,valid
+159,159,159,go wrong exchange rate applied purchase foreign country.,18,valid
+160,160,160,statement dollar charged showing it.,36,valid
+161,161,161,fee extra pound statement?,36,valid
+162,162,162,i'm not okay fee statement.,36,valid
+163,163,163,extra dollar charged account?,36,valid
+164,164,164,fee don't recognize statement.,36,valid
+165,165,165,would like refund extra pound charged.,36,valid
+166,166,166,explain random $1 charge is?,36,valid
+167,167,167,$1 charge statement?,36,valid
+168,168,168,statement extra charges?,36,valid
+169,169,169,"not remember purchasing anything 1£, statement. please tell about?",36,valid
+170,170,170,see extra 1£ charge app. charge extra?,36,valid
+171,171,171,tell noticed $1 charge statement?,36,valid
+172,172,172,$1 transaction credited me?,36,valid
+173,173,173,fee come from?,36,valid
+174,174,174,"noticed extra $1 charge statement, tell is?",36,valid
+175,175,175,extra $1 charge,36,valid
+176,176,176,need information extra €1 fee statement.,36,valid
+177,177,177,extra 1 pound charge card?,36,valid
+178,178,178,many fees statement?,36,valid
+179,179,179,would reason there's extra fee statement?,36,valid
+180,180,180,1 euro fee come from?,36,valid
+181,181,181,got extra €1 fee statement,36,valid
+182,182,182,1 euro fee statement.,36,valid
+183,183,183,overcharged pound!?,36,valid
+184,184,184,"something went wrong, charged extra pound?",36,valid
+185,185,185,extra fee statement come from?,36,valid
+186,186,186,extra charge app not told aware of!,36,valid
+187,187,187,seeing extra fee statement for?,36,valid
+188,188,188,€1 fee statement?,36,valid
+189,189,189,"new customer, happened look app charge not familiar with. could tell extra charge there?",36,valid
+190,190,190,reason account's charged extra dollar.,36,valid
+191,191,191,transaction $1 don't know charged.,36,valid
+192,192,192,"help weird charge? pound charge never goes away statement view app i'm using. not described anything ""pending"", status never changed last two days.",36,valid
+193,193,193,purpose extra fee showing statement?,36,valid
+194,194,194,"$1 extra charged statement, that?",36,valid
+195,195,195,extra €1 fee statement,36,valid
+196,196,196,"two weeks, transaction $1.00 not reversed?",36,valid
+197,197,197,€1 fee for?,36,valid
+198,198,198,i'm quite confused going on. odd extra pound charge statement app that's listed pending go away since couple days.,36,valid
+199,199,199,please check extra fee statement.,36,valid
+200,200,200,withdrawl still pending. why?,72,valid
+201,201,201,card denied atm earlier today transaction pending. please cancel not receive money.,72,valid
+202,202,202,transaction still showing pending cash withdrawal.,72,valid
+203,203,203,"hey tried get money earlier machine didn't work. saw transaction still seems progress! please check what's going there, seems something broken, don't want charged money haven't actually received!",72,valid
+204,204,204,long cash withdrawal take pend?,72,valid
+205,205,205,taking long cash withdrawal longer show pending?,72,valid
+206,206,206,"tried taking money atm money came out, transaction still pending? possible?",72,valid
+207,207,207,"got cash atm earlier shows pending app. still pending, i've got cash already?",72,valid
+208,208,208,withdrawal still pending?,72,valid
+209,209,209,sure withdrawal show?,72,valid
+210,210,210,"hi! wondering help me. used city centre atm get cash, machine declined card. account shows transaction still pending. didn't receive money, please cancel transaction.",72,valid
+211,211,211,transaction showing pending recieved cash atm?,72,valid
+212,212,212,cash atm still pending,72,valid
+213,213,213,atm cash still pending,72,valid
+214,214,214,still waiting cash withdrawal show,72,valid
+215,215,215,pending cash withdrawal processed?,72,valid
+216,216,216,long til cash goes through?,72,valid
+217,217,217,atm cash withdrawal showing pending transaction?,72,valid
+218,218,218,"hi,i tried get money machine not working .the transaction still seems progress! please check what's going on.i don't want charged money not received.",72,valid
+219,219,219,"hey, card declined atm city centre theatre. account says transaction pending, though. didn't get money, though, mean?",72,valid
+220,220,220,pending cash withdrawal?,72,valid
+221,221,221,pending cash withdrawal,72,valid
+222,222,222,made withdrawal account not posted?,72,valid
+223,223,223,cash withdrawal pending?,72,valid
+224,224,224,i'm not quite understanding cash withdrawal showing pending.,72,valid
+225,225,225,made cash withdrawal pending status taking forever.,72,valid
+226,226,226,cash withdrawal still showing pending.,72,valid
+227,227,227,unable take money card statement says transaction still pending?,72,valid
+228,228,228,account pending cash withdrawal?,72,valid
+229,229,229,pending transaction app. still pending pulled cash atm earlier?,72,valid
+230,230,230,cash withdrawal still pending?,72,valid
+231,231,231,"received cash atm earlier, shows pending app. i've got cash already. still pending?",72,valid
+232,232,232,"tried take money card, didn't work. later saw transaction still progress. what's goign on?",72,valid
+233,233,233,say pending cash withdrawal statement?,72,valid
+234,234,234,long cash withdrawal stay pending for?,72,valid
+235,235,235,where's accounting cash withdrawal?,72,valid
+236,236,236,account charged withdraw tried make decline.,72,valid
+237,237,237,long take post atm drawl,72,valid
+238,238,238,cash withdrawal atm still not yet showing confirmed account?,72,valid
+239,239,239,"what's pending transaction? card declined atm, account says still pending. cancel payment?",72,valid
+240,240,240,"request funds held, currencies use?",6,valid
+241,241,241,want know many different currencies money,6,valid
+242,242,242,support fiat currencies?,6,valid
+243,243,243,system support multiple currency.,6,valid
+244,244,244,currencies hold money in?,6,valid
+245,245,245,support currency?,6,valid
+246,246,246,"incoming payment account, deactivated. still processed?",6,valid
+247,247,247,currencies exchanges for?,6,valid
+248,248,248,"terms holding exchange, fiat currencies use.",6,valid
+249,249,249,fiat currencies used holding transactions?,6,valid
+250,250,250,exchange money eur?,6,valid
+251,251,251,permissible hold money multiple currencies?,6,valid
+252,252,252,exchange eur?,6,valid
+253,253,253,someone assist details explaining fiat currencies support?,6,valid
+254,254,254,offer additional currency options?,6,valid
+255,255,255,change currencies euros?,6,valid
+256,256,256,fiat currencies supported holding exchange?,6,valid
+257,257,257,"considering currency holdings exchanges, fiat currencies supported?",6,valid
+258,258,258,handle eur?,6,valid
+259,259,259,hold money currencies?,6,valid
+260,260,260,options holding currencies?,6,valid
+261,261,261,happen exchanges eur?,6,valid
+262,262,262,accept exchanges eur?,6,valid
+263,263,263,tell currency have?,6,valid
+264,264,264,able exchange currencies?,6,valid
+265,265,265,currencies used exchange?,6,valid
+266,266,266,fiat currencies support?,6,valid
+267,267,267,country's currency support?,6,valid
+268,268,268,want make currency exchange eu.,6,valid
+269,269,269,exchange hold fiat currencies?,6,valid
+270,270,270,kind currency hold money in?,6,valid
+271,271,271,exchange currencies?,6,valid
+272,272,272,work fiat currencies?,6,valid
+273,273,273,hold money multiple currencies?,6,valid
+274,274,274,man currencies hold?,6,valid
+275,275,275,besides usd currencies have?,6,valid
+276,276,276,accept exchanges eu?,6,valid
+277,277,277,kind fiat currency used holding exchange?,6,valid
+278,278,278,support exchange eur currency.,6,valid
+279,279,279,countries travel access currencies?,6,valid
+280,280,280,need card now!,52,valid
+281,281,281,card not mail advise?,52,valid
+282,282,282,need card quick,52,valid
+283,283,283,long take get me?,52,valid
+284,284,284,i'm wondering card get here.,52,valid
+285,285,285,get card fast?,52,valid
+286,286,286,long take deliver something us?,52,valid
+287,287,287,"live us, long take delivery?",52,valid
+288,288,288,expect card delivered us?,52,valid
+289,289,289,need card quickly,52,valid
+290,290,290,delivery us take long?,52,valid
+291,291,291,long take arrive?,52,valid
+292,292,292,card delivered specific day?,52,valid
+293,293,293,difference standard express delivery?,52,valid
+294,294,294,delivered specific date?,52,valid
+295,295,295,may choose delivered?,52,valid
+296,296,296,need delivered certain date.,52,valid
+297,297,297,expect card?,52,valid
+298,298,298,long take get card? choose receive it?,52,valid
+299,299,299,long take card arrive?,52,valid
+300,300,300,fast deliver?,52,valid
+301,301,301,"ordered awhile back, eta us?",52,valid
+302,302,302,long expect card arrive?,52,valid
+303,303,303,whats delivery time united states?,52,valid
+304,304,304,card arrive?,52,valid
+305,305,305,send card soon able to.,52,valid
+306,306,306,cards delivered?,52,valid
+307,307,307,long shipping take get us destination?,52,valid
+308,308,308,get card expedited?,52,valid
+309,309,309,long card delivered?,52,valid
+310,310,310,need card come soon possible.,52,valid
+311,311,311,expect receive new card?,52,valid
+312,312,312,waiting card arrive.,52,valid
+313,313,313,need card soon possible.,52,valid
+314,314,314,need delivered saturday.,52,valid
+315,315,315,what's u.s. delivery time?,52,valid
+316,316,316,card arrive?,52,valid
+317,317,317,choose date delivery?,52,valid
+318,318,318,make sure card delivered specific day?,52,valid
+319,319,319,delivered certain time?,52,valid
+320,320,320,"traveling, auto top-up card certain times?",5,valid
+321,321,321,limit using auto top-up?,5,valid
+322,322,322,automatically top-up need manually isn't much cash left?,5,valid
+323,323,323,"i'm running money, auto top up?",5,valid
+324,324,324,use auto top up?,5,valid
+325,325,325,automatically top-up money isn't much left?,5,valid
+326,326,326,isn't much money left automatically top-up?,5,valid
+327,327,327,"read auto-top function, can't find app.",5,valid
+328,328,328,add money certain time intervals travel?,5,valid
+329,329,329,"i'm going away awhile, add money automatically certain intervals?",5,valid
+330,330,330,"find ""auto-top"" feature?",5,valid
+331,331,331,"activated auto top-up, not letting enable it. not?",5,valid
+332,332,332,auto top-up option?,5,valid
+333,333,333,theft-top option?,5,valid
+334,334,334,limits auto top-up?,5,valid
+335,335,335,assist auto top ?,5,valid
+336,336,336,limit auto top-up?,5,valid
+337,337,337,limits auto top-up?,5,valid
+338,338,338,top automatically?,5,valid
+339,339,339,make sure don't run money card traveling?,5,valid
+340,340,340,what's limit automatic top-up?,5,valid
+341,341,341,"traveling, way auto top-up card certain days?",5,valid
+342,342,342,auto top-up option?,5,valid
+343,343,343,auto top-up account short?,5,valid
+344,344,344,auto top-up option?,5,valid
+345,345,345,space often money transferred along travels?,5,valid
+346,346,346,automatically top-up money isn't lot left?,5,valid
+347,347,347,add money automatically certain intervals?,5,valid
+348,348,348,set automatic top-up travel.,5,valid
+349,349,349,i've tried looking auto-top option website can't seem find it. help me?,5,valid
+350,350,350,top money automatically,5,valid
+351,351,351,topped hit certain balance?,5,valid
+352,352,352,automatically top-up isn't much money left?,5,valid
+353,353,353,way auto top-up?,5,valid
+354,354,354,explain find auto-top option?,5,valid
+355,355,355,auto top function find at?,5,valid
+356,356,356,way top-up automatically?,5,valid
+357,357,357,"top-up feature, isn't lot money left?",5,valid
+358,358,358,highest limit auto top?,5,valid
+359,359,359,enable auto-top up?,5,valid
+360,360,360,i've tried card bunch times never worked.,74,valid
+361,361,361,can't get card work.,74,valid
+362,362,362,card appears broken fix it?,74,valid
+363,363,363,know card isn't working?,74,valid
+364,364,364,card broke.,74,valid
+365,365,365,card work.,74,valid
+366,366,366,card not working?,74,valid
+367,367,367,please identify problem bank card?,74,valid
+368,368,368,unblock card using app?,74,valid
+369,369,369,card not work,74,valid
+370,370,370,get physical card work?,74,valid
+371,371,371,someone assist explaining card not working?,74,valid
+372,372,372,help me. card work.,74,valid
+373,373,373,card stop working?,74,valid
+374,374,374,think card broken,74,valid
+375,375,375,isn't card working?,74,valid
+376,376,376,card isn't working anymore.,74,valid
+377,377,377,card declined today eating need know what's wrong.,74,valid
+378,378,378,card work.,74,valid
+379,379,379,resolve problem card go all?,74,valid
+380,380,380,actual card isn't working.,74,valid
+381,381,381,card broken?,74,valid
+382,382,382,broke card,74,valid
+383,383,383,card stopped working,74,valid
+384,384,384,"card broke, do?",74,valid
+385,385,385,"tried using card today not working, help me?",74,valid
+386,386,386,card stopped working use,74,valid
+387,387,387,can't use card.,74,valid
+388,388,388,need help card. not working.,74,valid
+389,389,389,cannot use card.,74,valid
+390,390,390,card i've got seems broken.,74,valid
+391,391,391,card isn't working,74,valid
+392,392,392,card suddenly quit working.,74,valid
+393,393,393,tried use card several times not work.,74,valid
+394,394,394,card work.,74,valid
+395,395,395,card accept transaction all. what's wrong??,74,valid
+396,396,396,check card working?,74,valid
+397,397,397,nothing goes card.,74,valid
+398,398,398,find card work?,74,valid
+399,399,399,"could deactivated card, not working?",74,valid
+400,400,400,may exchange currencies this?,62,valid
+401,401,401,tell exchange different currency.,62,valid
+402,402,402,change one currency another?,62,valid
+403,403,403,change gbp aud?,62,valid
+404,404,404,app exchange currencies?,62,valid
+405,405,405,convert currencies app?,62,valid
+406,406,406,currencies exchanged?,62,valid
+407,407,407,exchange currencies app?,62,valid
+408,408,408,make exchange one currency another?,62,valid
+409,409,409,interconvert aud gbp?,62,valid
+410,410,410,currencies exchanged?,62,valid
+411,411,411,best way exchange currency usd gbp using app?,62,valid
+412,412,412,wanted make change gbp aud process?,62,valid
+413,413,413,get money exchanged?,62,valid
+414,414,414,possible change another currency?,62,valid
+415,415,415,exchange gbp aud?,62,valid
+416,416,416,would use money different country?,62,valid
+417,417,417,"receive foreign currencies, able exchange app?",62,valid
+418,418,418,change another currency?,62,valid
+419,419,419,"need aud not gbp, change it?",62,valid
+420,420,420,best way exchange currency?,62,valid
+421,421,421,need gbp instead aud do?,62,valid
+422,422,422,wondering whether exchanging currencies done app.,62,valid
+423,423,423,"might need aud instead gbp, change?",62,valid
+424,424,424,go process currency exchange?,62,valid
+425,425,425,change currency,62,valid
+426,426,426,able exchange currencies?,62,valid
+427,427,427,go change gbp?,62,valid
+428,428,428,currency's exchange for?,62,valid
+429,429,429,currencies app exchange?,62,valid
+430,430,430,app help exchange currencies?,62,valid
+431,431,431,would like exchange currency.,62,valid
+432,432,432,exchange gbp usd app?,62,valid
+433,433,433,currency exchange app?,62,valid
+434,434,434,change currency usd eur?,62,valid
+435,435,435,"think want aud not gbp, help?",62,valid
+436,436,436,exchange currency?,62,valid
+437,437,437,use app change dollars euros?,62,valid
+438,438,438,exchange currencies account?,62,valid
+439,439,439,would like exchange currencies,62,valid
+440,440,440,"entire gym bag, including wallet, stolen locker today. everything wallet gone - block card make can't used?",65,valid
+441,441,441,can't find card think may stolen.,65,valid
+442,442,442,"someone stole card. need report stolen. made police report already, report you?",65,valid
+443,443,443,"cant find card, gone.",65,valid
+444,444,444,card lost! do?,65,valid
+445,445,445,lost card,65,valid
+446,446,446,oh no! lost card! help!,65,valid
+447,447,447,"believe card stolen, situation? urgent.",65,valid
+448,448,448,help! someone stole card!,65,valid
+449,449,449,help. stolen card!,65,valid
+450,450,450,"card lost, please help",65,valid
+451,451,451,report card stolen?,65,valid
+452,452,452,card gone think stolen,65,valid
+453,453,453,copy police report necessary completing report process?,65,valid
+454,454,454,lost wallet today credit cards. please block card send replacement?,65,valid
+455,455,455,deal stolen card?,65,valid
+456,456,456,freeze card stolen,65,valid
+457,457,457,help! can't find card.,65,valid
+458,458,458,lost card?,65,valid
+459,459,459,need help lost card,65,valid
+460,460,460,think card stolen.,65,valid
+461,461,461,"someone stole wallet earlier today, not sure exactly when, probably piccadilly circus. check attempts use card obviously block it?",65,valid
+462,462,462,think lost card . dont know long missing. see maybe someone else using it?,65,valid
+463,463,463,freeze stolen card?,65,valid
+464,464,464,card missing?,65,valid
+465,465,465,bags stolen. need new card need cancel stolen one.,65,valid
+466,466,466,somehow missing card. do?,65,valid
+467,467,467,card taken,65,valid
+468,468,468,card got lost.,65,valid
+469,469,469,idiot stole card.,65,valid
+470,470,470,report card lost stolen?,65,valid
+471,471,471,card lost! now?,65,valid
+472,472,472,i'm spain stuff stolen. card need new one shipped old one frozen.,65,valid
+473,473,473,believe credit card stolen.,65,valid
+474,474,474,report stolen card?,65,valid
+475,475,475,"somebody stolen card, need help please.",65,valid
+476,476,476,cannot find credit card.,65,valid
+477,477,477,able locate card?,65,valid
+478,478,478,card got stolen!,65,valid
+479,479,479,help please! card stolen!,65,valid
+480,480,480,old need get account,35,valid
+481,481,481,young open account?,35,valid
+482,482,482,old be?,35,valid
+483,483,483,open account child?,35,valid
+484,484,484,old be?,35,valid
+485,485,485,go setting account daughter?,35,valid
+486,486,486,age minimum?,35,valid
+487,487,487,youngest age order account?,35,valid
+488,488,488,age be?,35,valid
+489,489,489,daughter open account?,35,valid
+490,490,490,minimum age open account?,35,valid
+491,491,491,minimum age?,35,valid
+492,492,492,17. make account?,35,valid
+493,493,493,could open account children?,35,valid
+494,494,494,age open account?,35,valid
+495,495,495,open account child?,35,valid
+496,496,496,open bank account newborn baby?,35,valid
+497,497,497,old open account?,35,valid
+498,498,498,offer services children money saving experience?,35,valid
+499,499,499,kids wanted use service old would be?,35,valid
+500,500,500,19 year old daughter open savings account bank?,35,valid
+501,501,501,old get account?,35,valid
+502,502,502,what's minimum age opening account?,35,valid
+503,503,503,"would like account children, go this?",35,valid
+504,504,504,children account?,35,valid
+505,505,505,possible open account children?,35,valid
+506,506,506,kids certain age use service?,35,valid
+507,507,507,old able open account?,35,valid
+508,508,508,age limit?,35,valid
+509,509,509,age requirements opening account?,35,valid
+510,510,510,able open account daughter,35,valid
+511,511,511,old need open account?,35,valid
+512,512,512,age sign services?,35,valid
+513,513,513,old kids use service?,35,valid
+514,514,514,age kids need use service?,35,valid
+515,515,515,old children need open account?,35,valid
+516,516,516,old kids need open account?,35,valid
+517,517,517,young someone order open account?,35,valid
+518,518,518,youngest someone open account?,35,valid
+519,519,519,old one account bank?,35,valid
+520,520,520,get pin unlocked?,25,valid
+521,521,521,view pin?,25,valid
+522,522,522,reinstate pin?,25,valid
+523,523,523,accidentally blocked pin. reset it?,25,valid
+524,524,524,unblock pin entering wrong many times?,25,valid
+525,525,525,used wrong ping many times account blocked. unblock?,25,valid
+526,526,526,need help drunken blocked card?,25,valid
+527,527,527,"reset pin, can't seem use card?",25,valid
+528,528,528,"put wrong pin much, got blocked, help unblock pin",25,valid
+529,529,529,"pin blocked, make use it?",25,valid
+530,530,530,many tries enter pin i'm blocked?,25,valid
+531,531,531,i've tried enter pin often?,25,valid
+532,532,532,exceeded number times try pin,25,valid
+533,533,533,unblock blocked pin number account?,25,valid
+534,534,534,bank machine accept pin attempts anymore?,25,valid
+535,535,535,unlock pin? think entered wrong pin many times.,25,valid
+536,536,536,deal blocked pin?,25,valid
+537,537,537,"attempted use card intoxicated, failed input pin, machine kept card. soon back?",25,valid
+538,538,538,unblock card using app?,25,valid
+539,539,539,i'v exhausted times try pin,25,valid
+540,540,540,unlock pin many tries?,25,valid
+541,541,541,help! forgot pin locked using card.,25,valid
+542,542,542,"account blocked, log",25,valid
+543,543,543,get blocked?,25,valid
+544,544,544,able unblock pin?,25,valid
+545,545,545,assist unblocking pin? put wrong many times.,25,valid
+546,546,546,entered wrong pin many times blocked. help unblock!,25,valid
+547,547,547,"pins seems blocked, unblock please",25,valid
+548,548,548,unblock pin many wrong pin attempts?,25,valid
+549,549,549,unblock pin?,25,valid
+550,550,550,"pin blocked, do?",25,valid
+551,551,551,reactivate pin?,25,valid
+552,552,552,reset pin?,25,valid
+553,553,553,unblock pin?,25,valid
+554,554,554,unblock pin?,25,valid
+555,555,555,"card's frozen, do?",25,valid
+556,556,556,unlock pin?,25,valid
+557,557,557,"since pin blocked, would help unblock it?",25,valid
+558,558,558,pin not working need assistance.,25,valid
+559,559,559,get pin unblocked?,25,valid
+560,560,560,contactless payments enabled new card?,42,valid
+561,561,561,contanctless stopped working,42,valid
+562,562,562,required documents new card process ?,42,valid
+563,563,563,"don't know what's wrong, contactless stopped working. tried different places today didn't work them.",42,valid
+564,564,564,get contactless feature work card?,42,valid
+565,565,565,tried pay contactless bus today didn't work. ideas why?,42,valid
+566,566,566,i've unable pay contactless card week now. way fix issue?,42,valid
+567,567,567,know contactless work?,42,valid
+568,568,568,contactless payments not completed successfully.,42,valid
+569,569,569,need replace card didn't work tried pay contactless shop today?,42,valid
+570,570,570,reason contactless stopped working. don't know problem is. do?,42,valid
+571,571,571,"couldn't use contactless morning, wasn't accepted.",42,valid
+572,572,572,contactless isn't working,42,valid
+573,573,573,wouldn't contactless payment work tried pay bus today?,42,valid
+574,574,574,check security settings allow contactless pay?,42,valid
+575,575,575,contactless work?,42,valid
+576,576,576,fix contactless,42,valid
+577,577,577,make contactless work metro?,42,valid
+578,578,578,contactless not working,42,valid
+579,579,579,help fix contactless?,42,valid
+580,580,580,reason contactless work me.,42,valid
+581,581,581,i'm unable use contactless payments purchases.,42,valid
+582,582,582,"tried pay bus ride, contactless payment wouldn't work. prevent future?",42,valid
+583,583,583,nfc payment wouldn't work bus today. help?,42,valid
+584,584,584,"wanted use card contactless seem working, could problem?",42,valid
+585,585,585,make contactless work,42,valid
+586,586,586,charges new card?,42,valid
+587,587,587,contactless work.,42,valid
+588,588,588,isn't contactless not working?,42,valid
+589,589,589,wanted use contactless metro today didn't accept it!,42,valid
+590,590,590,didnt work tried pay contactless bus today. why?,42,valid
+591,591,591,not able contactless.,42,valid
+592,592,592,use contactless payments?,42,valid
+593,593,593,help contactless isn't working.,42,valid
+594,594,594,fix problem contactless isn't working?,42,valid
+595,595,595,use contactless pay?,42,valid
+596,596,596,enable contactless pay?,42,valid
+597,597,597,need make regular payment contactless one?,42,valid
+598,598,598,find contactless works?,42,valid
+599,599,599,reinstall payment app?,42,valid
+600,600,600,much charge accept transfers,59,valid
+601,601,601,would like make transfer. much cost?,59,valid
+602,602,602,"need make transfer, fee be?",59,valid
+603,603,603,make top-up charges applied?,59,valid
+604,604,604,also transfer swift?,59,valid
+605,605,605,swift transfers accepted?,59,valid
+606,606,606,would like refill account using swift.,59,valid
+607,607,607,pay topping transfer?,59,valid
+608,608,608,sort fees involved top transfers?,59,valid
+609,609,609,possible get transfer swift?,59,valid
+610,610,610,pay fees order receive money?,59,valid
+611,611,611,much charged receive money?,59,valid
+612,612,612,deal swift transfers?,59,valid
+613,613,613,charges money received?,59,valid
+614,614,614,transfer incur fee?,59,valid
+615,615,615,charges receiving sepa transfer?,59,valid
+616,616,616,transfer money bank top-up account charged?,59,valid
+617,617,617,charged someone needs send money?,59,valid
+618,618,618,fees top-ups?,59,valid
+619,619,619,topping transfer lead charge account?,59,valid
+620,620,620,charges receiving money?,59,valid
+621,621,621,fee receive money?,59,valid
+622,622,622,much charged sepa transfer?,59,valid
+623,623,623,much fee sepa transfer?,59,valid
+624,624,624,what'll charge sepa transfer?,59,valid
+625,625,625,charge topping transfer?,59,valid
+626,626,626,swift transfers?,59,valid
+627,627,627,expect charged topping transfer?,59,valid
+628,628,628,charged sepa transfer?,59,valid
+629,629,629,fee transfer? much be?,59,valid
+630,630,630,please tell swift transfers bank.,59,valid
+631,631,631,fee transfer top-up?,59,valid
+632,632,632,tell transfer policy is?,59,valid
+633,633,633,swift transfer okay?,59,valid
+634,634,634,charged fee receive sepa transfer,59,valid
+635,635,635,"topping transfer, charged?",59,valid
+636,636,636,us fee transfer money bank?,59,valid
+637,637,637,get charged getting money?,59,valid
+638,638,638,tell total cost transfer?,59,valid
+639,639,639,transfer swift,59,valid
+640,640,640,"new customer filling gas today, not working, thing shows pending half hour!",67,valid
+641,641,641,card topped morning can't see funds. didn't complete?,67,valid
+642,642,642,would lead top still pending?,67,valid
+643,643,643,there's delay top-up,67,valid
+644,644,644,reason top hasn't gone,67,valid
+645,645,645,top-up pending.,67,valid
+646,646,646,could explain top-up gone yet?,67,valid
+647,647,647,"i've already topped up, cannot see funds available. happened?",67,valid
+648,648,648,going on? top-up still pending. use system time showing pending.,67,valid
+649,649,649,not see top-up processed.,67,valid
+650,650,650,topped didn't complete,67,valid
+651,651,651,"so, new customer attempted top first time today. already pending half hour seem working. need please get fixed.",67,valid
+652,652,652,top pending.,67,valid
+653,653,653,look top please. made three hours ago yet still pending.,67,valid
+654,654,654,please make top go soon possible. really need money pending hour already.,67,valid
+655,655,655,"what's going top-up? says pending, pending, pending! use service several times week never problem before! what's going here?",67,valid
+656,656,656,hasn't top gone yet,67,valid
+657,657,657,top-up slow process,67,valid
+658,658,658,"something wrong website? tried topping account close two hours still ""pending"" reason. joined guys first attempt this, maybe i'm wrong, instant?",67,valid
+659,659,659,"topped card ago still pending, surely done now?",67,valid
+660,660,660,hasn't top-up completed?,67,valid
+661,661,661,top not complete,67,valid
+662,662,662,put top-up card hasn't changed.,67,valid
+663,663,663,top still pending?,67,valid
+664,664,664,"top-up function isn't working, still says pending even though know card works.",67,valid
+665,665,665,"hi i'm new customer tried topping first time today, seems not working, thing shows pending since half hour already! please fix it!",67,valid
+666,666,666,"omg! i'm trying load card wont top up! desperately need money either card bank, it?",67,valid
+667,667,667,i'm attempting top-up account pending hour.,67,valid
+668,668,668,top-up still outstanding?,67,valid
+669,669,669,mean top saying still pending?,67,valid
+670,670,670,"top hasn't worked, stuck pending last couple hours",67,valid
+671,671,671,look like top-up completed.,67,valid
+672,672,672,top say still pending used card it.,67,valid
+673,673,673,money topped with?,67,valid
+674,674,674,"hi. i'm new customer system think something isn't working right - maybe is. maybe confirm. tried top today (my first time ever) stuck ""pending"" hour now. supposed something wrong system?",67,valid
+675,675,675,top-up still pending?,67,valid
+676,676,676,topping card not working believe top pending,67,valid
+677,677,677,top-up process?,67,valid
+678,678,678,"top-up definite problem! regularly use service haven't problem before, top-up shows pending. please tell continues show pending.",67,valid
+679,679,679,"tried topping funds seem pending. want buy something right now, do?",67,valid
+680,680,680,made transaction morning would like revert it.,44,valid
+681,681,681,cancel charge?,44,valid
+682,682,682,cancel transaction?,44,valid
+683,683,683,made transaction wrong account.,44,valid
+684,684,684,tell cancel transfer.,44,valid
+685,685,685,need cancel transfer made. wrong account number app let stop transaction. please stop it!,44,valid
+686,686,686,"need cancel recent transfer immediately, made mistake there, please help quickly goes",44,valid
+687,687,687,would like revert transaction morning,44,valid
+688,688,688,make transaction cancel it?,44,valid
+689,689,689,cancel transfer?,44,valid
+690,690,690,way cancel transfer?,44,valid
+691,691,691,accidentally made transaction wrong account.,44,valid
+692,692,692,want cancel transfer right away! help?,44,valid
+693,693,693,help cancel transaction,44,valid
+694,694,694,"urgent, typed wrong payment information payment needed make clicked send, need reverse transaction immediately.",44,valid
+695,695,695,cancel transfer,44,valid
+696,696,696,want reverse transaction earlier,44,valid
+697,697,697,way revert transaction morning?,44,valid
+698,698,698,i'd like cancel transfer,44,valid
+699,699,699,cancel transfer already processed?,44,valid
+700,700,700,transferred wrong amount would like cancel transaction.,44,valid
+701,701,701,made mistake transfer fix that?,44,valid
+702,702,702,need cancel incorrect transaction.,44,valid
+703,703,703,cancel transfer?,44,valid
+704,704,704,made mistake transaction!,44,valid
+705,705,705,submitted transaction incorrect account.,44,valid
+706,706,706,transfer made needs cancelled right now. mistake. please help cancel goes through!,44,valid
+707,707,707,want go back morning,44,valid
+708,708,708,transaction cancelled?,44,valid
+709,709,709,cancel transaction?,44,valid
+710,710,710,transaction needs canceled.,44,valid
+711,711,711,need make immediate cancellation related transfer. mistake. please assist quickly not actually go through.,44,valid
+712,712,712,made mistake need cancel transaction,44,valid
+713,713,713,made error payment yesterday need fixed asap rent tomorrow.,44,valid
+714,714,714,cancel last transfer,44,valid
+715,715,715,"recent transfer needs cancelled immediately; mistake, please cancel goes through?",44,valid
+716,716,716,need help cancelling transaction.,44,valid
+717,717,717,don't want transaction go,44,valid
+718,718,718,change amount made payment made payment correct.,44,valid
+719,719,719,please help me! need cancel transaction.,44,valid
+720,720,720,limit top up?,9,valid
+721,721,721,free top-up much want?,9,valid
+722,722,722,top limit account?,9,valid
+723,723,723,limit top up?,9,valid
+724,724,724,much money top up?,9,valid
+725,725,725,restrictions top-offs?,9,valid
+726,726,726,top-ups limited?,9,valid
+727,727,727,top limit,9,valid
+728,728,728,need find limit top-ups.,9,valid
+729,729,729,limit top ups?,9,valid
+730,730,730,maximum top up?,9,valid
+731,731,731,tell limit top-ups?,9,valid
+732,732,732,limit top-up amounts?,9,valid
+733,733,733,limit amount add card time?,9,valid
+734,734,734,want know maximum top up.,9,valid
+735,735,735,limit top-up?,9,valid
+736,736,736,tell top-up limits?,9,valid
+737,737,737,top-up limit?,9,valid
+738,738,738,limit top-ups?,9,valid
+739,739,739,top-up much want?,9,valid
+740,740,740,tell limits top ups?,9,valid
+741,741,741,top amoutn limits.,9,valid
+742,742,742,limit top-ups?,9,valid
+743,743,743,top-ups limit?,9,valid
+744,744,744,limits top-ups?,9,valid
+745,745,745,maximum amount top-ups?,9,valid
+746,746,746,top-up limit?,9,valid
+747,747,747,what's top limit?,9,valid
+748,748,748,limit top-up?,9,valid
+749,749,749,much top-up card time?,9,valid
+750,750,750,much top up?,9,valid
+751,751,751,top up?,9,valid
+752,752,752,limit high top-up?,9,valid
+753,753,753,amount limit top-up?,9,valid
+754,754,754,limit top-ups?,9,valid
+755,755,755,maximum top up?,9,valid
+756,756,756,tell top-up limit?,9,valid
+757,757,757,restrictions top-up?,9,valid
+758,758,758,limits top ups included?,9,valid
+759,759,759,top-up limits?,9,valid
+760,760,760,"don't know issue atm account, tried withdrawing 30 pounds atm i'm gave 10. glitch exactly going on?",0,valid
+761,761,761,didn't get cash requested atm,0,valid
+762,762,762,come atm gave less cash asked for?,0,valid
+763,763,763,not get cash back withdrew?,0,valid
+764,764,764,got less cash one specified atm,0,valid
+765,765,765,amount cash received incorrect,0,valid
+766,766,766,i'm atm withdrew 30 pounds given 10. do?,0,valid
+767,767,767,atm gave wrong amount cash today went withdraw. app says more.,0,valid
+768,768,768,amount cash received different requested.,0,valid
+769,769,769,"hi. withdrew cash atm received wrong amount. however, app shows correct amount withdrew. get rest cash?",0,valid
+770,770,770,"wrong amount cash came atm today went withdraw. looked app, showing much more.",0,valid
+771,771,771,not get much cash requested atm.,0,valid
+772,772,772,"request cash back? atm gave wrong amount, app shows amount i've actually charged though...",0,valid
+773,773,773,money pushed mobile app withdrawn.,0,valid
+774,774,774,not get cash asked for?,0,valid
+775,775,775,cash withdrawal partly declined,0,valid
+776,776,776,get $20 tried get $100,0,valid
+777,777,777,withdrawn cash atm received wrong amount. want cash back app showing actual amount got. please help this.,0,valid
+778,778,778,"went withdraw cash earlier today, seems atm gave wrong amount cash! amount showing app lot",0,valid
+779,779,779,tried get $100 got $20,0,valid
+780,780,780,not received amount cash supposed to.,0,valid
+781,781,781,asked $100 cash got $20?,0,valid
+782,782,782,money asked for? asked got!,0,valid
+783,783,783,withdrew money full amount wasn't dispensed.,0,valid
+784,784,784,something went wrong withdrawal. amount money isn't right.,0,valid
+785,785,785,got wrong amount atm. please tell process get cash back app showing amount actually received.,0,valid
+786,786,786,asked 100 got 20.,0,valid
+787,787,787,didn't receive right amount cash back,0,valid
+788,788,788,atm gave less cash requested,0,valid
+789,789,789,"didn't get much cash asked atm, why?",0,valid
+790,790,790,atm didn't give correct amount withdrew? pulled 30 pounds atm gave 10 pounds.,0,valid
+791,791,791,"tried take cash amount isn't right, do?",0,valid
+792,792,792,didn't receive cash asked,0,valid
+793,793,793,got $20 tried get $100,0,valid
+794,794,794,right amount cash not sent me.,0,valid
+795,795,795,atm didn't give withdraw amount requested.,0,valid
+796,796,796,get less money asked for?,0,valid
+797,797,797,didn't get right amount atm.,0,valid
+798,798,798,not receive correct cash upon withdrawal,0,valid
+799,799,799,declined funds tried withdraw returned me?,0,valid
+800,800,800,payed card charged extra fee,40,valid
+801,801,801,charged fee using card been.,40,valid
+802,802,802,reason charged fee using card payment? i've never extra fee before.,40,valid
+803,803,803,"show another charge card used it, why?",40,valid
+804,804,804,"get charged additional fees payments, not others?",40,valid
+805,805,805,used card purchase charged fee,40,valid
+806,806,806,charged card payment?,40,valid
+807,807,807,unauthorized fee.,40,valid
+808,808,808,would appreciate someone let know extra charge payments. checking app earlier saying charge one payments additional one made aware before.,40,valid
+809,809,809,charged extra fee paying card?,40,valid
+810,810,810,pay extra paid card?,40,valid
+811,811,811,fees card usage?,40,valid
+812,812,812,im not sure charge,40,valid
+813,813,813,fee charged card payment?,40,valid
+814,814,814,would card charged extra fee transaction?,40,valid
+815,815,815,pay card?,40,valid
+816,816,816,made card payment fee showing up?,40,valid
+817,817,817,charged fee paying card,40,valid
+818,818,818,fee card payment?,40,valid
+819,819,819,would charged fee card payment?,40,valid
+820,820,820,always charged fee using card?,40,valid
+821,821,821,"check somewhere fee payment not? seems charging cases, what's pattern there?",40,valid
+822,822,822,paying card resulted fee,40,valid
+823,823,823,paid card think fee applied.,40,valid
+824,824,824,items actually come extra fees,40,valid
+825,825,825,avoid getting charged fee card?,40,valid
+826,826,826,fee pay card?,40,valid
+827,827,827,charged fee paying card.,40,valid
+828,828,828,first time got fee account. know charge fees?,40,valid
+829,829,829,someone needs make aware extra charges payments. happened looking app earlier noticed charge associated payment extra one made aware all.,40,valid
+830,830,830,using card free?,40,valid
+831,831,831,charged extra fee using card?,40,valid
+832,832,832,fees apply using card?,40,valid
+833,833,833,charge payments? charges clearly laid agreement?,40,valid
+834,834,834,charged fee paid card?,40,valid
+835,835,835,fee account. why?,40,valid
+836,836,836,charge fees card payments?,40,valid
+837,837,837,charged fee card payment. why?,40,valid
+838,838,838,charged fee using card?,40,valid
+839,839,839,charged paying card.,40,valid
+840,840,840,"completed country transfer days ago sure check account information several times since transaction completed, funds still not available. problem?",16,valid
+841,841,841,money transfer not arrived.,16,valid
+842,842,842,still waiting transaction completed,16,valid
+843,843,843,made money transaction recipient can't see,16,valid
+844,844,844,tried send someone money haven't received it.,16,valid
+845,845,845,long take transfer get recipient?,16,valid
+846,846,846,recipient see money transaction?,16,valid
+847,847,847,transferred money recipient says not arrived. would be?,16,valid
+848,848,848,transfer hasn't arrived,16,valid
+849,849,849,long money transfers take?,16,valid
+850,850,850,transferred money didint arrive,16,valid
+851,851,851,transfer started?,16,valid
+852,852,852,transaction failed?,16,valid
+853,853,853,"finished sending money, not logging recipient side.",16,valid
+854,854,854,completed money transaction recipient hasn't received,16,valid
+855,855,855,receipient see money transfer.,16,valid
+856,856,856,"transferred rent payment new place couple days ago landlord says not yet, despite showing done side. checked account number sent definitely correct. please verify transaction really went not?",16,valid
+857,857,857,need find transfer didn't get there.,16,valid
+858,858,858,"i've moved address place durham place walton-on-the-naze. new landlord new house haven't got payment know sent time, check got please?",16,valid
+859,859,859,sent money. haven't received it.,16,valid
+860,860,860,"hey, need help figuring way transfer not complete yet. landlord hasn't got money yet.she received now.",16,valid
+861,861,861,"day yesterday, performed transfer within country. still hasn't gone through. check that? account number definitely correct, i've checked double checked.",16,valid
+862,862,862,"i'm problem money transfer. sent money friend couple hours ago, haven't received yet. hasn't gotten them? long transfers need go through?",16,valid
+863,863,863,transferred money receiver can't pick reason.,16,valid
+864,864,864,transaction made friend?,16,valid
+865,865,865,friend still hasn't gotten transaction made.,16,valid
+866,866,866,im waiting transaction go through.,16,valid
+867,867,867,made transaction taking long time go through.,16,valid
+868,868,868,reason transaction taking long?,16,valid
+869,869,869,long take transaction completed?,16,valid
+870,870,870,sent money receiver can't access it.,16,valid
+871,871,871,sent friend money hours ago not received yet. really needs it. long take?,16,valid
+872,872,872,person sent money hasn't gotten yet!,16,valid
+873,873,873,funds transfer?,16,valid
+874,874,874,"long take transfers finish? sent funds pal, says not gotten anything.",16,valid
+875,875,875,"long transfers need come through? sent money friend, needs urgently, seems still not yet couple hours.",16,valid
+876,876,876,long friend receives transaction?,16,valid
+877,877,877,hasn't recipient received money?,16,valid
+878,878,878,still awaiting completion transaction.,16,valid
+879,879,879,transferred money recipient trouble withdrawing.,16,valid
+880,880,880,"add money account, currencies use?",14,valid
+881,881,881,"need support options, want top card",14,valid
+882,882,882,1 us card. take that?,14,valid
+883,883,883,cards currencies supported?,14,valid
+884,884,884,currencies accepted adding money?,14,valid
+885,885,885,kind currencies use add money?,14,valid
+886,886,886,one credit card usa. accepted?,14,valid
+887,887,887,"1 us card, take it?",14,valid
+888,888,888,use american express add money account?,14,valid
+889,889,889,tell cards currencies take?,14,valid
+890,890,890,use american express add money account?,14,valid
+891,891,891,accept card u.s.?,14,valid
+892,892,892,accepted regards cards currencies?,14,valid
+893,893,893,accept card?,14,valid
+894,894,894,would like add money account american express.,14,valid
+895,895,895,cards guys support? want top using credit card.,14,valid
+896,896,896,credit cards supported?,14,valid
+897,897,897,cards currencies support?,14,valid
+898,898,898,transfer funds american express account?,14,valid
+899,899,899,use american express add money account?,14,valid
+900,900,900,"adding money, currencies take?",14,valid
+901,901,901,forms currency accepted?,14,valid
+902,902,902,us credit cards accepted?,14,valid
+903,903,903,"want add money don't know currencies accept, tell me?",14,valid
+904,904,904,wouldn't support american express? card like use often don't want get different one,14,valid
+905,905,905,tell cards currency supported.,14,valid
+906,906,906,support cards currencies?,14,valid
+907,907,907,credit debit cards use top up?,14,valid
+908,908,908,options regards payment?,14,valid
+909,909,909,one card us. okay?,14,valid
+910,910,910,currencies cards supported use this?,14,valid
+911,911,911,cards support top up.,14,valid
+912,912,912,accept currencies besides us dollars?,14,valid
+913,913,913,use currency add money?,14,valid
+914,914,914,currency okay add money with?,14,valid
+915,915,915,cards currencies suffice?,14,valid
+916,916,916,use american express add funds account?,14,valid
+917,917,917,cards currencies supported?,14,valid
+918,918,918,currencies cards support topping up?,14,valid
+919,919,919,cards currencies support?,14,valid
+920,920,920,obtain virtual card?,28,valid
+921,921,921,get virtual card?,28,valid
+922,922,922,find virtual card?,28,valid
+923,923,923,option virtual card?,28,valid
+924,924,924,don't want physical card get virtual version?,28,valid
+925,925,925,requested virtual card not showing up. why?,28,valid
+926,926,926,tell order virtual card?,28,valid
+927,927,927,virtual card?,28,valid
+928,928,928,virtual card,28,valid
+929,929,929,get virtual card?,28,valid
+930,930,930,order virtual card from?,28,valid
+931,931,931,not get virtual card yet?,28,valid
+932,932,932,order virtual cards?,28,valid
+933,933,933,tell order virtual card?,28,valid
+934,934,934,possible get virtual card?,28,valid
+935,935,935,order virtual card?,28,valid
+936,936,936,steps getting virtual card?,28,valid
+937,937,937,help obtain virtual card,28,valid
+938,938,938,virtual card located?,28,valid
+939,939,939,order virtual card?,28,valid
+940,940,940,obtain virtual card?,28,valid
+941,941,941,want virtual card!,28,valid
+942,942,942,want one virtual cards!,28,valid
+943,943,943,virtual cards available get?,28,valid
+944,944,944,help sign virtual card?,28,valid
+945,945,945,get copy card email?,28,valid
+946,946,946,find virtual card?,28,valid
+947,947,947,not virtual card,28,valid
+948,948,948,order virtual card?,28,valid
+949,949,949,"thought going get virtual card haven't received yet, resolve this?",28,valid
+950,950,950,please help get virtual card.,28,valid
+951,951,951,order virtual card?,28,valid
+952,952,952,go get virtual card?,28,valid
+953,953,953,virtual cards located?,28,valid
+954,954,954,would like virtual card- purchase one?,28,valid
+955,955,955,receive virtual card?,28,valid
+956,956,956,need reorder virtual card!,28,valid
+957,957,957,get virtual card?,28,valid
+958,958,958,way obtain virtual card?,28,valid
+959,959,959,one virtual cards?,28,valid
+960,960,960,card accepted world?,60,valid
+961,961,961,accepts card?,60,valid
+962,962,962,use card payment world?,60,valid
+963,963,963,fine use establishment accepts mastercard.,60,valid
+964,964,964,card used?,60,valid
+965,965,965,card used everywhere?,60,valid
+966,966,966,limits use card?,60,valid
+967,967,967,stores sue card?,60,valid
+968,968,968,use card anywhere want?,60,valid
+969,969,969,anywhere card not accepted?,60,valid
+970,970,970,rules use card?,60,valid
+971,971,971,know card accepted?,60,valid
+972,972,972,places use card?,60,valid
+973,973,973,card accepted everywhere?,60,valid
+974,974,974,places accept card payment?,60,valid
+975,975,975,card work everywhere?,60,valid
+976,976,976,businesses accept card?,60,valid
+977,977,977,use card?,60,valid
+978,978,978,outlets accept card?,60,valid
+979,979,979,"traveling germany, able use card there?",60,valid
+980,980,980,stores take credit card payment?,60,valid
+981,981,981,place cannot use card?,60,valid
+982,982,982,able use card anywhere?,60,valid
+983,983,983,card usable anywhere?,60,valid
+984,984,984,acceptable use card anywhere?,60,valid
+985,985,985,use card everywhere?,60,valid
+986,986,986,card accepted?,60,valid
+987,987,987,pay debit credit card?,60,valid
+988,988,988,card work?,60,valid
+989,989,989,areas card accpeted,60,valid
+990,990,990,places use card,60,valid
+991,991,991,make online purchases card?,60,valid
+992,992,992,every place business accept card?,60,valid
+993,993,993,places accept card?,60,valid
+994,994,994,use card anywere?,60,valid
+995,995,995,business take card?,60,valid
+996,996,996,filling stations accept card?,60,valid
+997,997,997,able use card?,60,valid
+998,998,998,use card pay for?,60,valid
+999,999,999,accepts card?,60,valid
+1000,1000,1000,top-up cancelled; receive refund?,58,valid
+1001,1001,1001,fix reverted top up?,58,valid
+1002,1002,1002,possible tell top reverted?,58,valid
+1003,1003,1003,"top-up showed complete, longer there! what's going here?",58,valid
+1004,1004,1004,"hi, don't know what's going i've paid top twice accident help get refund please.",58,valid
+1005,1005,1005,seems top reverted?,58,valid
+1006,1006,1006,app wouldn't accept top up.,58,valid
+1007,1007,1007,"topped account even though confirmed first, money isn't anymore! happen, money go?",58,valid
+1008,1008,1008,"believe money not go top up, problem end?",58,valid
+1009,1009,1009,"top-up reverted, happen?",58,valid
+1010,1010,1010,put money account minimum balance application didn't accept.,58,valid
+1011,1011,1011,tell top-up cancelled?,58,valid
+1012,1012,1012,got topped application reverted it.,58,valid
+1013,1013,1013,would top cancelled?,58,valid
+1014,1014,1014,appears reversion top,58,valid
+1015,1015,1015,application reverted top-up.,58,valid
+1016,1016,1016,think top-up cancelled.,58,valid
+1017,1017,1017,believed crypto top something offered. not seem working. money removed account though what's going on?,58,valid
+1018,1018,1018,topped app reverted,58,valid
+1019,1019,1019,went top longer there. sent back?,58,valid
+1020,1020,1020,happened top-up?,58,valid
+1021,1021,1021,tell top reverted?,58,valid
+1022,1022,1022,reason would top reverted returned account?,58,valid
+1023,1023,1023,"topped up, app reverted funds.",58,valid
+1024,1024,1024,happened top-up canceled?,58,valid
+1025,1025,1025,tryed make top-up cryptocurrency payment referted.,58,valid
+1026,1026,1026,app reverted top off.,58,valid
+1027,1027,1027,app reverted action topped up.,58,valid
+1028,1028,1028,top reversed?,58,valid
+1029,1029,1029,"see top-up canceled, why?",58,valid
+1030,1030,1030,know top-up cancelled?,58,valid
+1031,1031,1031,top-up cancelled,58,valid
+1032,1032,1032,top-up revoked.,58,valid
+1033,1033,1033,causes top-up cancellation,58,valid
+1034,1034,1034,app reverted topped up.,58,valid
+1035,1035,1035,top reverted?,58,valid
+1036,1036,1036,im upset top-up canceled idea why.,58,valid
+1037,1037,1037,top-up cancelled.,58,valid
+1038,1038,1038,last transaction seem top-up not successful.,58,valid
+1039,1039,1039,i'd like know top-up canceled please.,58,valid
+1040,1040,1040,tried making update balance using cheque yesterday appear worked. not faster process? need please check account something went wrong.,12,valid
+1041,1041,1041,come don't see deposit account yet?,12,valid
+1042,1042,1042,reason account isn't updating used check balance account?,12,valid
+1043,1043,1043,"don't know deposit made week ago still hasn't showed up, really need money now.",12,valid
+1044,1044,1044,made cash deposit almost week ago still not there!! please sort asap need money,12,valid
+1045,1045,1045,cash deposit?,12,valid
+1046,1046,1046,get cash deposit show account?,12,valid
+1047,1047,1047,see cash deposited morning available?,12,valid
+1048,1048,1048,cash morning not deposited,12,valid
+1049,1049,1049,cash cheque recently deposited?,12,valid
+1050,1050,1050,cash deposit account not appeared.,12,valid
+1051,1051,1051,"deposit cheques cash, balance not update.",12,valid
+1052,1052,1052,made deposit morning still pending?,12,valid
+1053,1053,1053,cash deposit account shown red flag.,12,valid
+1054,1054,1054,paid money account show.,12,valid
+1055,1055,1055,balance account wasn't updated made depost.,12,valid
+1056,1056,1056,cheques accepted account? mine didn't seem work.,12,valid
+1057,1057,1057,deposited check balance still same.,12,valid
+1058,1058,1058,im still waiting account update cash deposit?,12,valid
+1059,1059,1059,"submitted cheque couple days ago, nothing happened account yet.would please check could possible issue?",12,valid
+1060,1060,1060,deposit?,12,valid
+1061,1061,1061,bank statement show cash deposit made recently.,12,valid
+1062,1062,1062,cash deposit week ago hasn't shown up. need money - quickly sort out?,12,valid
+1063,1063,1063,didn't balance update cash checque deposit?,12,valid
+1064,1064,1064,cash deposit not showing account?,12,valid
+1065,1065,1065,made deposit cash check not added balance.,12,valid
+1066,1066,1066,hasn't balance increased depositing check?,12,valid
+1067,1067,1067,account not accept cash deposits?,12,valid
+1068,1068,1068,happened cash tried deposit account? gone!,12,valid
+1069,1069,1069,"cheque deposited, still haven't seen cash.",12,valid
+1070,1070,1070,"cheque deposit hasn't posted account, balance update?",12,valid
+1071,1071,1071,submitted cash deposit account hasn't posted yet.,12,valid
+1072,1072,1072,sent cheque days ago nothing happened account yet. please check me?,12,valid
+1073,1073,1073,check deposited cleared get cash?,12,valid
+1074,1074,1074,long take process cheque deposits?,12,valid
+1075,1075,1075,come cash deposit not showing up. can't right. must mistake. cash go. better not lost need money asap.,12,valid
+1076,1076,1076,deposited cash morning still waiting,12,valid
+1077,1077,1077,balance hasn't updated following cheque cash deposit,12,valid
+1078,1078,1078,tired deposit cash account not,12,valid
+1079,1079,1079,"sent cheque couple days ago, nothing happened account yet! unacceptable, money??",12,valid
+1080,1080,1080,strange payment statement,34,valid
+1081,1081,1081,charge card not make,34,valid
+1082,1082,1082,saw payment not,34,valid
+1083,1083,1083,payment not mine app. please advise/,34,valid
+1084,1084,1084,unauthorized payment app,34,valid
+1085,1085,1085,not make card payment.,34,valid
+1086,1086,1086,see payment didn't make?,34,valid
+1087,1087,1087,found unauthorized card payment,34,valid
+1088,1088,1088,transaction account didnt make,34,valid
+1089,1089,1089,don't recall making payment?,34,valid
+1090,1090,1090,payments card don't know coming from. checked today since couple days well! do? revert retrospectively? card needs frozen immediately well!,34,valid
+1091,1091,1091,someone accessed card payments not make showing app.,34,valid
+1092,1092,1092,strange charges card didn't make days ago. card stolen cancel it? get refunded charges?,34,valid
+1093,1093,1093,would payment account don't recognize?,34,valid
+1094,1094,1094,payment didn't,34,valid
+1095,1095,1095,payment not mine.,34,valid
+1096,1096,1096,freeze account? saw transactions account don't recognize. fix this?,34,valid
+1097,1097,1097,card payment not recognise.,34,valid
+1098,1098,1098,don't recognise card payment,34,valid
+1099,1099,1099,payment not,34,valid
+1100,1100,1100,"please put freeze card, worried payments don't know for.",34,valid
+1101,1101,1101,think statement fraudulent charge,34,valid
+1102,1102,1102,"i'm concerned payment recently made card. not recognize name transaction went to, help me?",34,valid
+1103,1103,1103,get transactions account didn't make them? card must compromised need freeze asap!,34,valid
+1104,1104,1104,payment listed error.,34,valid
+1105,1105,1105,payments card didn't make. please put freeze card till figure out.,34,valid
+1106,1106,1106,i'm not familiar card payment.,34,valid
+1107,1107,1107,unauthorized transaction statement,34,valid
+1108,1108,1108,payment app not mine.,34,valid
+1109,1109,1109,don't know transaction came from?,34,valid
+1110,1110,1110,see charge account don't recall making. feel like account may compromised.,34,valid
+1111,1111,1111,"know didn't make payment showing card, don't remember person all.",34,valid
+1112,1112,1112,somebody used card make purchase,34,valid
+1113,1113,1113,there's recent charge card know didn't make i've never seen name before. investigate this?,34,valid
+1114,1114,1114,card payments look different purchased products from. that?,34,valid
+1115,1115,1115,strange payment statement. do?,34,valid
+1116,1116,1116,think purchase made wasn't me.,34,valid
+1117,1117,1117,fraudulent charge statement.,34,valid
+1118,1118,1118,payment account not do?,34,valid
+1119,1119,1119,statement payment not recognize,34,valid
+1120,1120,1120,"longer live address file, change it?",31,valid
+1121,1121,1121,change address.,31,valid
+1122,1122,1122,update details?,31,valid
+1123,1123,1123,address needs revised.,31,valid
+1124,1124,1124,"got married, need change account name",31,valid
+1125,1125,1125,address changed.,31,valid
+1126,1126,1126,got married need change name,31,valid
+1127,1127,1127,want change personal details.,31,valid
+1128,1128,1128,moved. need update details.,31,valid
+1129,1129,1129,need edit personal details section account,31,valid
+1130,1130,1130,change personal information move?,31,valid
+1131,1131,1131,go modify detail?,31,valid
+1132,1132,1132,change information?,31,valid
+1133,1133,1133,need change account details,31,valid
+1134,1134,1134,moved. update details?,31,valid
+1135,1135,1135,relocated need change personal details.,31,valid
+1136,1136,1136,need update personal details,31,valid
+1137,1137,1137,address changed. report it?,31,valid
+1138,1138,1138,need update info.,31,valid
+1139,1139,1139,modify details?,31,valid
+1140,1140,1140,change name?,31,valid
+1141,1141,1141,address updated need change it.,31,valid
+1142,1142,1142,go update personal profile?,31,valid
+1143,1143,1143,possible edit personal details app?,31,valid
+1144,1144,1144,change details,31,valid
+1145,1145,1145,need help changing last name account.,31,valid
+1146,1146,1146,update current residence details?,31,valid
+1147,1147,1147,change name?,31,valid
+1148,1148,1148,need change name since got married,31,valid
+1149,1149,1149,want change address.,31,valid
+1150,1150,1150,change name,31,valid
+1151,1151,1151,change information?,31,valid
+1152,1152,1152,need update current address,31,valid
+1153,1153,1153,moved. update details?,31,valid
+1154,1154,1154,want change name.,31,valid
+1155,1155,1155,wait post office sends change address form?,31,valid
+1156,1156,1156,need change name do?,31,valid
+1157,1157,1157,edit personal details?,31,valid
+1158,1158,1158,change address?,31,valid
+1159,1159,1159,need change address account?,31,valid
+1160,1160,1160,require many details identity?,29,valid
+1161,1161,1161,i'd rather not verify identity.,29,valid
+1162,1162,1162,need verify identity every time log account?,29,valid
+1163,1163,1163,required verify identity?,29,valid
+1164,1164,1164,make transfers identity verification?,29,valid
+1165,1165,1165,need verify identity?,29,valid
+1166,1166,1166,identity check?,29,valid
+1167,1167,1167,use account without verifying identity?,29,valid
+1168,1168,1168,identity verification mandatory?,29,valid
+1169,1169,1169,identity check?,29,valid
+1170,1170,1170,would like not identity verification.,29,valid
+1171,1171,1171,"still use account, even though identity verification not passed yet?",29,valid
+1172,1172,1172,require identity details?,29,valid
+1173,1173,1173,need much information verify identity?,29,valid
+1174,1174,1174,purpose identity check,29,valid
+1175,1175,1175,don't like fill much information identity.,29,valid
+1176,1176,1176,point identity check?,29,valid
+1177,1177,1177,come need know identity?,29,valid
+1178,1178,1178,"may use account now, even though identity verification not gone yet?",29,valid
+1179,1179,1179,need verify identity use account?,29,valid
+1180,1180,1180,required identity check?,29,valid
+1181,1181,1181,asked identity check,29,valid
+1182,1182,1182,make transactions identity verification complete?,29,valid
+1183,1183,1183,really need verify identity?,29,valid
+1184,1184,1184,give identification details?,29,valid
+1185,1185,1185,require many identity details?,29,valid
+1186,1186,1186,"since id hasn't verified, use account?",29,valid
+1187,1187,1187,verify identity.,29,valid
+1188,1188,1188,want skip verification identity.,29,valid
+1189,1189,1189,not wish verify identity.,29,valid
+1190,1190,1190,verify identity?,29,valid
+1191,1191,1191,identity check?,29,valid
+1192,1192,1192,methods verify identity?,29,valid
+1193,1193,1193,need verify identity?,29,valid
+1194,1194,1194,need verify identity time wish use account?,29,valid
+1195,1195,1195,use account identity verification not complete?,29,valid
+1196,1196,1196,asking verify identity,29,valid
+1197,1197,1197,verify identity?,29,valid
+1198,1198,1198,need know much,29,valid
+1199,1199,1199,need verfiy identity?,29,valid
+1200,1200,1200,cannot verify identity,27,valid
+1201,1201,1201,not required prove identity,27,valid
+1202,1202,1202,app believe say am?,27,valid
+1203,1203,1203,trouble verifying identity.,27,valid
+1204,1204,1204,verification failed,27,valid
+1205,1205,1205,impossible verify identity,27,valid
+1206,1206,1206,app know me.,27,valid
+1207,1207,1207,i'm trouble verifying id.,27,valid
+1208,1208,1208,app not recognize,27,valid
+1209,1209,1209,help verify id.,27,valid
+1210,1210,1210,app failed verify identity.,27,valid
+1211,1211,1211,can't verify id.,27,valid
+1212,1212,1212,can't prove identity.,27,valid
+1213,1213,1213,not recognized app.,27,valid
+1214,1214,1214,isn't id verified?,27,valid
+1215,1215,1215,app not let account.,27,valid
+1216,1216,1216,trouble proving identity.,27,valid
+1217,1217,1217,cannot prove identity.,27,valid
+1218,1218,1218,id verified!,27,valid
+1219,1219,1219,not get app know me.,27,valid
+1220,1220,1220,can't verify identity.,27,valid
+1221,1221,1221,app recognize me.,27,valid
+1222,1222,1222,difficulties verify identity.,27,valid
+1223,1223,1223,app believe,27,valid
+1224,1224,1224,what's not verifying id?,27,valid
+1225,1225,1225,need verify id?,27,valid
+1226,1226,1226,"tried verifying id, let me.",27,valid
+1227,1227,1227,show stupid system really identity?,27,valid
+1228,1228,1228,experiencing difficulty providing identity.,27,valid
+1229,1229,1229,trouble proving identity,27,valid
+1230,1230,1230,long take id verify?,27,valid
+1231,1231,1231,not able verify id?,27,valid
+1232,1232,1232,let verify identity.,27,valid
+1233,1233,1233,app doesnt think,27,valid
+1234,1234,1234,trouble verifying id?,27,valid
+1235,1235,1235,issues identity verification,27,valid
+1236,1236,1236,app let log myself.,27,valid
+1237,1237,1237,can't verify identity?,27,valid
+1238,1238,1238,can't verify id?,27,valid
+1239,1239,1239,reason problem verifying identity.,27,valid
+1240,1240,1240,card pin?,33,valid
+1241,1241,1241,pin delivered separately?,33,valid
+1242,1242,1242,not pin,33,valid
+1243,1243,1243,pin separately?,33,valid
+1244,1244,1244,cannot seem find pin. it?,33,valid
+1245,1245,1245,set-up pin new card?,33,valid
+1246,1246,1246,find card pin?,33,valid
+1247,1247,1247,card pin saved app,33,valid
+1248,1248,1248,don't know look find pin.,33,valid
+1249,1249,1249,app find new pin,33,valid
+1250,1250,1250,app find pin?,33,valid
+1251,1251,1251,got new card not sure check pin.,33,valid
+1252,1252,1252,need pin,33,valid
+1253,1253,1253,"need pin card, located?",33,valid
+1254,1254,1254,card pin,33,valid
+1255,1255,1255,card's pin?,33,valid
+1256,1256,1256,card pin?,33,valid
+1257,1257,1257,received card not pin.,33,valid
+1258,1258,1258,can't see pin?,33,valid
+1259,1259,1259,process setting pin,33,valid
+1260,1260,1260,pin come card?,33,valid
+1261,1261,1261,find card pin?,33,valid
+1262,1262,1262,isn't pin available yet?,33,valid
+1263,1263,1263,pin located account somewhere?,33,valid
+1264,1264,1264,"please help finding card pin, thank you!",33,valid
+1265,1265,1265,pin number located?,33,valid
+1266,1266,1266,still don't pin.,33,valid
+1267,1267,1267,card pin?,33,valid
+1268,1268,1268,cannot locate card pin.,33,valid
+1269,1269,1269,need pin,33,valid
+1270,1270,1270,find pin?,33,valid
+1271,1271,1271,receive pin,33,valid
+1272,1272,1272,help find card pin!,33,valid
+1273,1273,1273,pin delivered separately?,33,valid
+1274,1274,1274,not find card pin.,33,valid
+1275,1275,1275,need pin?,33,valid
+1276,1276,1276,can't find pin?,33,valid
+1277,1277,1277,card pin?,33,valid
+1278,1278,1278,card's pin?,33,valid
+1279,1279,1279,user find pin?,33,valid
+1280,1280,1280,like mastercard rather visa.,64,valid
+1281,1281,1281,qualify visa card?,64,valid
+1282,1282,1282,get visa card?,64,valid
+1283,1283,1283,guys accept visa mastercard?,64,valid
+1284,1284,1284,visa mastercard accepted?,64,valid
+1285,1285,1285,guys accept mastercard visa?,64,valid
+1286,1286,1286,visa mastercard offered?,64,valid
+1287,1287,1287,give visa?,64,valid
+1288,1288,1288,decide get visa mastercard?,64,valid
+1289,1289,1289,get mastercard?,64,valid
+1290,1290,1290,steps must follow get visa credit card?,64,valid
+1291,1291,1291,i'd rather get mastercard,64,valid
+1292,1292,1292,get choice visa mastercard?,64,valid
+1293,1293,1293,get visa credit card?,64,valid
+1294,1294,1294,would prefer visa card,64,valid
+1295,1295,1295,may choose visa mastercard?,64,valid
+1296,1296,1296,allowed use card make payment?,64,valid
+1297,1297,1297,available cards?,64,valid
+1298,1298,1298,want get visa mastercard,64,valid
+1299,1299,1299,able choose card?,64,valid
+1300,1300,1300,visa mastercard available me?,64,valid
+1301,1301,1301,visa mastercard?,64,valid
+1302,1302,1302,select mastercard instead visa?,64,valid
+1303,1303,1303,would like apply visa card.,64,valid
+1304,1304,1304,get choose visa mastercard?,64,valid
+1305,1305,1305,need visa mastercard.,64,valid
+1306,1306,1306,hello. tell use visa mastercard?,64,valid
+1307,1307,1307,i'd like information choosing visa mastercard.,64,valid
+1308,1308,1308,visa matercard?,64,valid
+1309,1309,1309,possible visa mastercard you?,64,valid
+1310,1310,1310,like mastercard better.,64,valid
+1311,1311,1311,offer visa mastercard?,64,valid
+1312,1312,1312,would rather mastercard.,64,valid
+1313,1313,1313,please give visa master card.,64,valid
+1314,1314,1314,possible receive visa mastercard?,64,valid
+1315,1315,1315,major card payments accepted?,64,valid
+1316,1316,1316,visa mastercard available?,64,valid
+1317,1317,1317,let know visa among card scheme assignments?,64,valid
+1318,1318,1318,use mastercard visa?,64,valid
+1319,1319,1319,possible get visa here?,64,valid
+1320,1320,1320,top account card?,54,valid
+1321,1321,1321,money using card disappeared,54,valid
+1322,1322,1322,top card?,54,valid
+1323,1323,1323,process using credit card transfer money?,54,valid
+1324,1324,1324,top card using app? i'm new this.,54,valid
+1325,1325,1325,friends add account,54,valid
+1326,1326,1326,top using car?,54,valid
+1327,1327,1327,can't see topup wallet anymore?,54,valid
+1328,1328,1328,use credit card transfer money,54,valid
+1329,1329,1329,friends top account,54,valid
+1330,1330,1330,"followed instructions transfer money using card, money disappeared don't know happened.",54,valid
+1331,1331,1331,where's money got charged card? not showing account balance,54,valid
+1332,1332,1332,top up?,54,valid
+1333,1333,1333,"missing funds account - tried transfer using credit card number, disappeared.",54,valid
+1334,1334,1334,friends would like top-up account possible?,54,valid
+1335,1335,1335,transfer money using credit card?,54,valid
+1336,1336,1336,give friends access account top me?,54,valid
+1337,1337,1337,"top-up, i'm not seeing wallet yet.",54,valid
+1338,1338,1338,"know entered right info, top isn't balance",54,valid
+1339,1339,1339,friend able top account?,54,valid
+1340,1340,1340,way transfer funds directly card?,54,valid
+1341,1341,1341,isn't top showing wallet?,54,valid
+1342,1342,1342,"tried top using card, money disappeared!",54,valid
+1343,1343,1343,help transfer money credit card.,54,valid
+1344,1344,1344,tried use card top money disappeared.,54,valid
+1345,1345,1345,possible use credit card transfer money?,54,valid
+1346,1346,1346,someone add money account?,54,valid
+1347,1347,1347,cannot access top up.,54,valid
+1348,1348,1348,friends able add funds account?,54,valid
+1349,1349,1349,transfer money credit card?,54,valid
+1350,1350,1350,else top account,54,valid
+1351,1351,1351,money gone right attempted top,54,valid
+1352,1352,1352,transfer money using credit card?,54,valid
+1353,1353,1353,friends want top account,54,valid
+1354,1354,1354,top accounts?,54,valid
+1355,1355,1355,show top card,54,valid
+1356,1356,1356,topped card money disappeared.,54,valid
+1357,1357,1357,don't see top wallet?,54,valid
+1358,1358,1358,can't see top-up amount added account?,54,valid
+1359,1359,1359,friends able top account?,54,valid
+1360,1360,1360,get multiple disposble cards.,50,valid
+1361,1361,1361,make many disposable cards per day?,50,valid
+1362,1362,1362,"need use disposable card multiple times day, cutoff limit?",50,valid
+1363,1363,1363,make one disposable card day?,50,valid
+1364,1364,1364,one disposable card?,50,valid
+1365,1365,1365,disposable cards limit?,50,valid
+1366,1366,1366,what's disposable cards have?,50,valid
+1367,1367,1367,virtual cards caps using them?,50,valid
+1368,1368,1368,many disposable cards have?,50,valid
+1369,1369,1369,amount disposable cards day?,50,valid
+1370,1370,1370,many disposable cards per day allowed have?,50,valid
+1371,1371,1371,many card payments use disposable card?,50,valid
+1372,1372,1372,need multiple disposable cards?,50,valid
+1373,1373,1373,"one disposable card, make five payments them?",50,valid
+1374,1374,1374,able explain restrictions disposable cards?,50,valid
+1375,1375,1375,maximum number transactions make one card?,50,valid
+1376,1376,1376,limit number transactions disposable card?,50,valid
+1377,1377,1377,many disposable cards limit?,50,valid
+1378,1378,1378,tell many transactions disposable card.,50,valid
+1379,1379,1379,several disposable cards per day.,50,valid
+1380,1380,1380,would like know restrictions disposable cards.,50,valid
+1381,1381,1381,create many temporary cards daily?,50,valid
+1382,1382,1382,possible make several disposable cards day?,50,valid
+1383,1383,1383,many disposable cards make single day?,50,valid
+1384,1384,1384,limit many transactions make one disposable card?,50,valid
+1385,1385,1385,limits many disposable cards use?,50,valid
+1386,1386,1386,explain virtual cards limit?,50,valid
+1387,1387,1387,many disposable virtual cards have?,50,valid
+1388,1388,1388,need create several disposable cards per day.,50,valid
+1389,1389,1389,hindrances using disposable virtual card?,50,valid
+1390,1390,1390,many disposable cards own?,50,valid
+1391,1391,1391,many virtual cards get?,50,valid
+1392,1392,1392,limit disposable cards have?,50,valid
+1393,1393,1393,many times use disposable card?,50,valid
+1394,1394,1394,use virtual disposable card for?,50,valid
+1395,1395,1395,know restriction disposable cards are?,50,valid
+1396,1396,1396,limits disposable virtual cards?,50,valid
+1397,1397,1397,limits using disposable virtual cards?,50,valid
+1398,1398,1398,many transactions one disposable card?,50,valid
+1399,1399,1399,many times use disposable virtual card have?,50,valid
+1400,1400,1400,think someone using card make transactions don't remember.,75,valid
+1401,1401,1401,someone using account,75,valid
+1402,1402,1402,someone don't know used card without permission.,75,valid
+1403,1403,1403,card used without permission.,75,valid
+1404,1404,1404,freeze card right now?,75,valid
+1405,1405,1405,freeze account hacked.,75,valid
+1406,1406,1406,"transactions didn't make, someone else must used card.",75,valid
+1407,1407,1407,freeze card someone used town. not make purchases.,75,valid
+1408,1408,1408,someone using account online shopping! please freeze asap,75,valid
+1409,1409,1409,someone else may using card. transactions don't recognize.,75,valid
+1410,1410,1410,stop unauthorized transactions card? never place transactions bill made never made them. please help!,75,valid
+1411,1411,1411,think card improperly used?,75,valid
+1412,1412,1412,stop fraud account right now?,75,valid
+1413,1413,1413,"think identity stolen, check unauthorized charges?",75,valid
+1414,1414,1414,think someone else using card. transactions didn't make.,75,valid
+1415,1415,1415,"don't recognize transactions card, think someone must gotten card info used it.",75,valid
+1416,1416,1416,use app freeze account dispute fraud?,75,valid
+1417,1417,1417,card used online make bunch purchases! someone else using fraudulently. help freeze it?,75,valid
+1418,1418,1418,"someone card number, freeze account.",75,valid
+1419,1419,1419,"see random purchases account, hacked?",75,valid
+1420,1420,1420,seems someone used card! transactions small town middle nowhere definitely not made! please prevent using immediately!,75,valid
+1421,1421,1421,freeze card using app?,75,valid
+1422,1422,1422,card compromised,75,valid
+1423,1423,1423,think someone else may using card.,75,valid
+1424,1424,1424,"transactions showing strange, think card used without knowing.",75,valid
+1425,1425,1425,freeze account?,75,valid
+1426,1426,1426,"i'm not certain, someone may using card.",75,valid
+1427,1427,1427,freeze card? think someone using make bunch online transactions.,75,valid
+1428,1428,1428,think someone got card details used transactions don't recognize. now?,75,valid
+1429,1429,1429,someone else used card!,75,valid
+1430,1430,1430,believe someone using card without agreement!,75,valid
+1431,1431,1431,"feel someone card information, get new card?",75,valid
+1432,1432,1432,"transaction don't recognize, think someone managed get card details use it.",75,valid
+1433,1433,1433,think someone access card numbers shouldn't.,75,valid
+1434,1434,1434,think child used card wasn't home.,75,valid
+1435,1435,1435,think someone managed get card information?,75,valid
+1436,1436,1436,think someone copied numbers card using them.,75,valid
+1437,1437,1437,think someone using card.,75,valid
+1438,1438,1438,use app freeze card dispute fraud?,75,valid
+1439,1439,1439,"someone else using card, freeze it.",75,valid
+1440,1440,1440,atms take card?,46,valid
+1441,1441,1441,atms accept card?,46,valid
+1442,1442,1442,closest mastercard atm?,46,valid
+1443,1443,1443,list atm machines?,46,valid
+1444,1444,1444,specific atms card used at?,46,valid
+1445,1445,1445,know atms accept card?,46,valid
+1446,1446,1446,atm's accept card?,46,valid
+1447,1447,1447,nearby atm's?,46,valid
+1448,1448,1448,locations atms accept card?,46,valid
+1449,1449,1449,atms accept placard ?,46,valid
+1450,1450,1450,help locate nearest atm.,46,valid
+1451,1451,1451,atms card okay use at?,46,valid
+1452,1452,1452,find nearest atm?,46,valid
+1453,1453,1453,kind atm's use?,46,valid
+1454,1454,1454,withdraw money?,46,valid
+1455,1455,1455,many miles away atm?,46,valid
+1456,1456,1456,withdraw?,46,valid
+1457,1457,1457,atm's accept card?,46,valid
+1458,1458,1458,atms able use card?,46,valid
+1459,1459,1459,use card atms?,46,valid
+1460,1460,1460,get cash card anywhere?,46,valid
+1461,1461,1461,atms accept card?,46,valid
+1462,1462,1462,someone please assist finding nearest atm?,46,valid
+1463,1463,1463,atm machines near me?,46,valid
+1464,1464,1464,nearest bank machine?,46,valid
+1465,1465,1465,type atms accept card?,46,valid
+1466,1466,1466,use card atm?,46,valid
+1467,1467,1467,"card, atms go to?",46,valid
+1468,1468,1468,atms withdraw money from?,46,valid
+1469,1469,1469,"want withdraw money, go?",46,valid
+1470,1470,1470,withdrawal money?,46,valid
+1471,1471,1471,atms accept card?,46,valid
+1472,1472,1472,atms accept type card?,46,valid
+1473,1473,1473,find atm use card?,46,valid
+1474,1474,1474,atms use card?,46,valid
+1475,1475,1475,certain atms use card at?,46,valid
+1476,1476,1476,know closest atm?,46,valid
+1477,1477,1477,use card atm?,46,valid
+1478,1478,1478,places can't withdraw money?,46,valid
+1479,1479,1479,locations withdraw money,46,valid
+1480,1480,1480,help me. direct debit didn't make.,17,valid
+1481,1481,1481,direct debit that's not mine.,17,valid
+1482,1482,1482,strange direct debit statement,17,valid
+1483,1483,1483,don't understand debit came want removed.,17,valid
+1484,1484,1484,charge account,17,valid
+1485,1485,1485,"im mad right now. theres several charges think x boyfriend made card. companys website wouldn't refund money, told contact bank. something please.",17,valid
+1486,1486,1486,someone stole money,17,valid
+1487,1487,1487,there's direct debit payment account didn't make,17,valid
+1488,1488,1488,there's debit account didn't do.,17,valid
+1489,1489,1489,may fraud charge debit statement.,17,valid
+1490,1490,1490,direct debit payment app not me?,17,valid
+1491,1491,1491,weird charges appearing debit account.,17,valid
+1492,1492,1492,"even though late, wanted see disputing charge. looking transactions past couple months noticed pretty large amount not completed me. possibly something still do.",17,valid
+1493,1493,1493,"transaction two weeks ago business don't know. i'm fairly certain wasn't made it, option trace confirm?",17,valid
+1494,1494,1494,direct debit seeing?,17,valid
+1495,1495,1495,direct debit don't recognize.,17,valid
+1496,1496,1496,unknown direct deposit,17,valid
+1497,1497,1497,suspicious direct debit payment.,17,valid
+1498,1498,1498,transaction account don't recognize trace back information make sure something not?,17,valid
+1499,1499,1499,"couple weeks ago money deducted account seller don't remember. i'm pretty sure didn't that, possible trace back make sure?",17,valid
+1500,1500,1500,found charge direct debit not made me.,17,valid
+1501,1501,1501,"seeing weird payment showing know not make, get cancelled?",17,valid
+1502,1502,1502,direct debit payment may not right.,17,valid
+1503,1503,1503,app show direct debit payment not authorize,17,valid
+1504,1504,1504,dispute payment even notice several weeks made?,17,valid
+1505,1505,1505,seems incorrect listing direct debit payment app not make,17,valid
+1506,1506,1506,don't think made charge debit statement.,17,valid
+1507,1507,1507,direct debit charge not recognize,17,valid
+1508,1508,1508,didn't make direct debit transaction,17,valid
+1509,1509,1509,there's direct debit account didn't authorize,17,valid
+1510,1510,1510,understand extremely late. going transactions last couple months noticed large charge i'm sure not make. anyway still dispute this?,17,valid
+1511,1511,1511,don't recognize debit payment made would like find payment.,17,valid
+1512,1512,1512,concerned security account would like make dispute.,17,valid
+1513,1513,1513,direct debit didn't make showing app?,17,valid
+1514,1514,1514,direct debit not recognise statement,17,valid
+1515,1515,1515,"direct debit transaction not set up, would like .",17,valid
+1516,1516,1516,someone taken money don't know,17,valid
+1517,1517,1517,charged account there.,17,valid
+1518,1518,1518,there's direct debit wish dispute,17,valid
+1519,1519,1519,account deducted seller didn't approve it?,17,valid
+1520,1520,1520,forget passcode? did.,1,valid
+1521,1521,1521,can't find password,1,valid
+1522,1522,1522,retrieve passcode?,1,valid
+1523,1523,1523,passcode seem working,1,valid
+1524,1524,1524,lost password,1,valid
+1525,1525,1525,password isn't accepted need reset it.,1,valid
+1526,1526,1526,something wrong password.,1,valid
+1527,1527,1527,something wrong passcode,1,valid
+1528,1528,1528,"reset forgotten passcode, please?",1,valid
+1529,1529,1529,can't recall passcode need reset it.,1,valid
+1530,1530,1530,given new passcode?,1,valid
+1531,1531,1531,not know passcode.,1,valid
+1532,1532,1532,don't remember code get app.,1,valid
+1533,1533,1533,longer passcode.,1,valid
+1534,1534,1534,passcode work?,1,valid
+1535,1535,1535,resent passcode?,1,valid
+1536,1536,1536,need reset passcode. it?,1,valid
+1537,1537,1537,show please reset passcode.,1,valid
+1538,1538,1538,help reset passcode.,1,valid
+1539,1539,1539,forgotten passcode access app,1,valid
+1540,1540,1540,passcode work me?,1,valid
+1541,1541,1541,"not remember code, do?",1,valid
+1542,1542,1542,reset passcode?,1,valid
+1543,1543,1543,need help resetting passcode access app.,1,valid
+1544,1544,1544,steps take receive another passcode?,1,valid
+1545,1545,1545,forgot password,1,valid
+1546,1546,1546,forgot code get app.,1,valid
+1547,1547,1547,forgotten password.,1,valid
+1548,1548,1548,forgot code access app.,1,valid
+1549,1549,1549,way reset passcode?,1,valid
+1550,1550,1550,help reset password?,1,valid
+1551,1551,1551,reset password? don't know is.,1,valid
+1552,1552,1552,reset passcode?,1,valid
+1553,1553,1553,forgot passcode?,1,valid
+1554,1554,1554,passcode work,1,valid
+1555,1555,1555,tell reset passcode.,1,valid
+1556,1556,1556,need new passcode.,1,valid
+1557,1557,1557,don't access code app.,1,valid
+1558,1558,1558,tell reset passcode?,1,valid
+1559,1559,1559,code need get app?,1,valid
+1560,1560,1560,tell let get money money machine? know used right pin.,2,valid
+1561,1561,1561,withdrawal cancelled.,2,valid
+1562,1562,1562,frustrating. can't get card work atm try i've tried 3 far. what's going on? please fix issue immediately?,2,valid
+1563,1563,1563,atm not allow withdraw,2,valid
+1564,1564,1564,atm transaction cancelled?,2,valid
+1565,1565,1565,atm keeps declining card. tried couple different atms. tell there's problem account?,2,valid
+1566,1566,1566,atm trying made withdraw declined.,2,valid
+1567,1567,1567,atm didn't let get cash,2,valid
+1568,1568,1568,want know unable withdrawn funds.,2,valid
+1569,1569,1569,"need help check account, please! card keeps declined atm, i've already tried two different ones!",2,valid
+1570,1570,1570,"hi, card withdrawal declined morning. working fine till yesterday. please check inform me.",2,valid
+1571,1571,1571,"hi, trying use card declining atm. cross checked two different atms facing issue. could please check account.",2,valid
+1572,1572,1572,tried make cash withdrawal declined. happen?,2,valid
+1573,1573,1573,can't get money atm,2,valid
+1574,1574,1574,atm declining card. tried two different atms. tell there's anything wrong account?,2,valid
+1575,1575,1575,withdrawal declined unsure happened?,2,valid
+1576,1576,1576,declined tried get cash.,2,valid
+1577,1577,1577,declined atm today trying make withdraw?,2,valid
+1578,1578,1578,reasons would cause atm machines decline card? happened multiple times!,2,valid
+1579,1579,1579,atm machine fail give cash withdrawal?,2,valid
+1580,1580,1580,atm transaction unsuccessful.,2,valid
+1581,1581,1581,attempted get cash declined.,2,valid
+1582,1582,1582,tried withdraw money declined!,2,valid
+1583,1583,1583,come can't take money atm?,2,valid
+1584,1584,1584,atm keeps declining card. tried two different atms. tell there's issue account?,2,valid
+1585,1585,1585,cash withdrawal declined?,2,valid
+1586,1586,1586,could not get cash?,2,valid
+1587,1587,1587,couldn't get cash atm?,2,valid
+1588,1588,1588,can't get cash?,2,valid
+1589,1589,1589,didn't atm give money?,2,valid
+1590,1590,1590,tried withdraw money atm declined front friends. happen?,2,valid
+1591,1591,1591,atm isn't giving money.,2,valid
+1592,1592,1592,declined getting cash?,2,valid
+1593,1593,1593,couldn't get cash atm,2,valid
+1594,1594,1594,"oh goodness, card declined twice atm! tried two different atm, one declined card! tell what's going account?",2,valid
+1595,1595,1595,could not choose cash atm?,2,valid
+1596,1596,1596,cash withdrawl declined why?,2,valid
+1597,1597,1597,reason atm declined transaction?,2,valid
+1598,1598,1598,cash tried draw atm not approved.,2,valid
+1599,1599,1599,atm would not give cash,2,valid
+1600,1600,1600,"card payment still hold, so?",20,valid
+1601,1601,1601,payment pending?,20,valid
+1602,1602,1602,card payment still pending.,20,valid
+1603,1603,1603,finalize card payment,20,valid
+1604,1604,1604,card payment showing pending?,20,valid
+1605,1605,1605,payment not gone through?,20,valid
+1606,1606,1606,please help know status card payment pending since while.,20,valid
+1607,1607,1607,"recently made payment, showing account ""pending"". mean?",20,valid
+1608,1608,1608,mean pending payment?,20,valid
+1609,1609,1609,card payment done pending?,20,valid
+1610,1610,1610,made payment days ago hasn't gone yet?,20,valid
+1611,1611,1611,seeing pending card payment made.,20,valid
+1612,1612,1612,card payment showing pending.,20,valid
+1613,1613,1613,bought stuff morning payment shows pending,20,valid
+1614,1614,1614,waiting payment go through.,20,valid
+1615,1615,1615,long item bought show pending?,20,valid
+1616,1616,1616,pending payment?,20,valid
+1617,1617,1617,would like know purchases morning still pending.,20,valid
+1618,1618,1618,pending transaction card?,20,valid
+1619,1619,1619,card payment pending.,20,valid
+1620,1620,1620,payment showing card pending?,20,valid
+1621,1621,1621,made purchase says pending. mean?,20,valid
+1622,1622,1622,long card transactions take clear?,20,valid
+1623,1623,1623,pending mean?,20,valid
+1624,1624,1624,long card payment stay pending?,20,valid
+1625,1625,1625,payment still hasn't processed!,20,valid
+1626,1626,1626,"double charged, second charge showing ""pending"". long get money back second charge refunded?",20,valid
+1627,1627,1627,"waited 15 days, payment still hasn't cleared.",20,valid
+1628,1628,1628,would pending payment?,20,valid
+1629,1629,1629,explain pending payment means?,20,valid
+1630,1630,1630,payments showing pending?,20,valid
+1631,1631,1631,"card still pending, i've waiting while.",20,valid
+1632,1632,1632,long take payment go thru? made one days ago not cleared yet.,20,valid
+1633,1633,1633,bought things morning payment shows pending,20,valid
+1634,1634,1634,long take authorise payment?,20,valid
+1635,1635,1635,payment made amount time would like know suppose go though.,20,valid
+1636,1636,1636,pending transaction mean?,20,valid
+1637,1637,1637,paid card payment still coming pending. think issue please check let know status complete.,20,valid
+1638,1638,1638,pending payment account paid back ago still hasnt gone through. would show pending long?,20,valid
+1639,1639,1639,pending payment stuff bought morning.,20,valid
+1640,1640,1640,phone stolen,38,valid
+1641,1641,1641,phone stolen yesterday. do?,38,valid
+1642,1642,1642,"phone missing, block someone using app?",38,valid
+1643,1643,1643,think phone either lost stolen.,38,valid
+1644,1644,1644,"mugged lost everything, access account app?",38,valid
+1645,1645,1645,can't find phone.,38,valid
+1646,1646,1646,i've lost track phone someone stole it.,38,valid
+1647,1647,1647,"i'm not sure phone is, think someone stole lost.",38,valid
+1648,1648,1648,used card even phone stolen?,38,valid
+1649,1649,1649,"phone stolen, do?",38,valid
+1650,1650,1650,"lost phone, dont want others use it.",38,valid
+1651,1651,1651,lost phone need help securing it.,38,valid
+1652,1652,1652,phone stolen longer access app.,38,valid
+1653,1653,1653,"left phone hotel, access app",38,valid
+1654,1654,1654,phone not me. use app?,38,valid
+1655,1655,1655,phone gone,38,valid
+1656,1656,1656,phone not moment not able access app.,38,valid
+1657,1657,1657,phone taken! place cancel account one uses,38,valid
+1658,1658,1658,lost phone would like freeze accounts.,38,valid
+1659,1659,1659,"lost phone, still access account?",38,valid
+1660,1660,1660,hotel called said left phone room.,38,valid
+1661,1661,1661,someone stole phone yesterday :( anything need do?,38,valid
+1662,1662,1662,"lost phone, dont want others access account",38,valid
+1663,1663,1663,mugged everything taken. protect account?,38,valid
+1664,1664,1664,believe left smartphone hotel staying at.,38,valid
+1665,1665,1665,"someone attacked yesterday took things, unable use app. need help.",38,valid
+1666,1666,1666,still use app switched phones?,38,valid
+1667,1667,1667,mugged yesterday took everything. can't access app. next steps?,38,valid
+1668,1668,1668,got mugged yesterday lost access app. need regain it.,38,valid
+1669,1669,1669,"lost phone, someone use account?",38,valid
+1670,1670,1670,not able use app since forgot phone hotel staying at.,38,valid
+1671,1671,1671,someone stole phone.,38,valid
+1672,1672,1672,someone stole cards!,38,valid
+1673,1673,1673,phone lost. prevent someone using app?,38,valid
+1674,1674,1674,anything need since phone stolen?,38,valid
+1675,1675,1675,lost phone!,38,valid
+1676,1676,1676,can't find phone credit card information.,38,valid
+1677,1677,1677,use app don't phone me?,38,valid
+1678,1678,1678,got mugged yesterday can't use app.,38,valid
+1679,1679,1679,"things stolen yesterday can't use apps anything, going need help.",38,valid
+1680,1680,1680,"hello- urgent get refund product. merchant not helpful, get resolved asap?",53,valid
+1681,1681,1681,receive refund item?,53,valid
+1682,1682,1682,get item refund,53,valid
+1683,1683,1683,would able get refund something bought?,53,valid
+1684,1684,1684,need refund,53,valid
+1685,1685,1685,need refund item not received. able simply cancel payment? don't know this.,53,valid
+1686,1686,1686,would like refund something bought,53,valid
+1687,1687,1687,want return item.,53,valid
+1688,1688,1688,refund?,53,valid
+1689,1689,1689,"wasn't charged correct amount item purchased, fix this?",53,valid
+1690,1690,1690,hi there! need cancel order recently made start processing refund. please help set refund soon possible? urgent.,53,valid
+1691,1691,1691,please stop purchase.,53,valid
+1692,1692,1692,want refund package taking long arrive. go that?,53,valid
+1693,1693,1693,apply refund?,53,valid
+1694,1694,1694,item refunded?,53,valid
+1695,1695,1695,"ordered something ages ago online simply not arriving. i've got enough! give back money, i'm not paying people.",53,valid
+1696,1696,1696,need get refund?,53,valid
+1697,1697,1697,need refund?,53,valid
+1698,1698,1698,"unhappy purchase, cancel order?",53,valid
+1699,1699,1699,bought something would like refund. that?,53,valid
+1700,1700,1700,get refunded?,53,valid
+1701,1701,1701,cancel purchase?,53,valid
+1702,1702,1702,cancel previous purchase,53,valid
+1703,1703,1703,would appreciate could get item refunded,53,valid
+1704,1704,1704,claim refund?,53,valid
+1705,1705,1705,"don't want item, bought accident, get refund?",53,valid
+1706,1706,1706,hello changed mind really need refund one things bought recently. please cancel transaction get money back. please urgent.,53,valid
+1707,1707,1707,would like refund one products sold,53,valid
+1708,1708,1708,not happy product get refund?,53,valid
+1709,1709,1709,want amount reversed account.,53,valid
+1710,1710,1710,hello! recently made purchase i'm needing cancel order process refund soon possible.,53,valid
+1711,1711,1711,want reverse purchase. cancel it?,53,valid
+1712,1712,1712,chatting order long back. never got day deeply upset this! want money back! not accept paying something never got.,53,valid
+1713,1713,1713,bought item charged wrong amount get refund?,53,valid
+1714,1714,1714,would like cancel payment. purchased something several days ago still not received it.,53,valid
+1715,1715,1715,what's refund process?,53,valid
+1716,1716,1716,want refund purchase,53,valid
+1717,1717,1717,process refund something purchased?,53,valid
+1718,1718,1718,want get item refunded,53,valid
+1719,1719,1719,need cancel purchase made.,53,valid
+1720,1720,1720,tried make transfer declined. why?,43,valid
+1721,1721,1721,good morning. tried make purchase credit card last night morning. times declined. investigate?,43,valid
+1722,1722,1722,getting continuous failure transfers. cross checked recipient detail everything correct.,43,valid
+1723,1723,1723,transfer declined,43,valid
+1724,1724,1724,would make decline message show transfer?,43,valid
+1725,1725,1725,keep declining transfers?it always working really well far tried buy something card got declined . tried couple times already thing happening.,43,valid
+1726,1726,1726,"fix card, got declined twice.",43,valid
+1727,1727,1727,transfer get declined?,43,valid
+1728,1728,1728,transfers declined. always worked declining card. i've tried several times.,43,valid
+1729,1729,1729,transfer decline,43,valid
+1730,1730,1730,card got declined twice tried use buy something online yesterday.,43,valid
+1731,1731,1731,"transfer details already reviewed confirmed correct, reason would cause transfer declined?",43,valid
+1732,1732,1732,get transfer declined?,43,valid
+1733,1733,1733,transfer get declined?,43,valid
+1734,1734,1734,contact customer support transfer?,43,valid
+1735,1735,1735,"keep declining transfers? always working really well far, tried buy something card got declined. tried couple times already thing.",43,valid
+1736,1736,1736,unable transfer?,43,valid
+1737,1737,1737,trouble transferring transaction contact help,43,valid
+1738,1738,1738,could transfer declined?,43,valid
+1739,1739,1739,try buy something using card keeps getting declined.,43,valid
+1740,1740,1740,could not transfer declined,43,valid
+1741,1741,1741,"submit transfer, declined. information put reviewed.",43,valid
+1742,1742,1742,transfer declined?,43,valid
+1743,1743,1743,reason transfer declined?,43,valid
+1744,1744,1744,transfer got declined.,43,valid
+1745,1745,1745,transfer declined,43,valid
+1746,1746,1746,"tired move money, transfer declined.",43,valid
+1747,1747,1747,would like know transfer declined.,43,valid
+1748,1748,1748,"tried make transfer, declined. tell why?",43,valid
+1749,1749,1749,reason transfer declined?,43,valid
+1750,1750,1750,transfer declined know went through.,43,valid
+1751,1751,1751,double check funds may declined,43,valid
+1752,1752,1752,can't transfer money account.,43,valid
+1753,1753,1753,"would transfer declined? i've checked i've put right details, still declined.",43,valid
+1754,1754,1754,tried buy something online yesterday kept saying declined. tried today thing happened. what's broken?,43,valid
+1755,1755,1755,tried buy something online yesterday wouldn't stop saying declined. tried today thing happened. what's broken?,43,valid
+1756,1756,1756,card declined online. could tell might broken wrong account?,43,valid
+1757,1757,1757,restrictions causing transfer declined?,43,valid
+1758,1758,1758,"attempting purchase golf club ebay yesterday, credit card declined. tried multiple times, morning. check card please?",43,valid
+1759,1759,1759,"think transfer declined, why?",43,valid
+1760,1760,1760,refund isn't showing account.,51,valid
+1761,1761,1761,refund missing statement.,51,valid
+1762,1762,1762,"requested refund, never received it. do?",51,valid
+1763,1763,1763,supposed get purchase refunded don't see money account,51,valid
+1764,1764,1764,there's refund missing statement,51,valid
+1765,1765,1765,"need help. asked refund merchant ago, not gotten money back. keep checking account, nothing showing up. now?",51,valid
+1766,1766,1766,awaiting refund,51,valid
+1767,1767,1767,long take refund?,51,valid
+1768,1768,1768,"help! keep checking account, refund not showing. requested seller refund money back, money showing account. me?",51,valid
+1769,1769,1769,tell refund not showing statement?,51,valid
+1770,1770,1770,"asked refund last week nothing happened yet, help please?",51,valid
+1771,1771,1771,refund missing statement?,51,valid
+1772,1772,1772,still waiting refund.,51,valid
+1773,1773,1773,requested refund missing.,51,valid
+1774,1774,1774,"hi, suggested you, asked seller initiate refund, week haven't received money. please advise.",51,valid
+1775,1775,1775,bought something returned money return isn't account.,51,valid
+1776,1776,1776,idea receive refund? got statement not there.,51,valid
+1777,1777,1777,isn't recent refund statement?,51,valid
+1778,1778,1778,see refund account,51,valid
+1779,1779,1779,"supposed get refund balance hasn't changed, not?",51,valid
+1780,1780,1780,requested refund merchant days ago not see account.,51,valid
+1781,1781,1781,refund not appeared account,51,valid
+1782,1782,1782,refund go through? not statement.,51,valid
+1783,1783,1783,statement show refund processed,51,valid
+1784,1784,1784,requested refund store hasn't arrived.,51,valid
+1785,1785,1785,still haven't seen refund account,51,valid
+1786,1786,1786,missing refund.,51,valid
+1787,1787,1787,refund seem showing statement.,51,valid
+1788,1788,1788,not seeing refund statement.,51,valid
+1789,1789,1789,can't see recent refund statement?,51,valid
+1790,1790,1790,"told earlier contacted seller refund directly, nothing happening! week still haven't got anything. please give back money",51,valid
+1791,1791,1791,refund? checking account day.,51,valid
+1792,1792,1792,week done everything asked still nothing. contacted seller not gotten response. please understand frustration put money back account.,51,valid
+1793,1793,1793,refund missing,51,valid
+1794,1794,1794,return show im account purchase made?,51,valid
+1795,1795,1795,keep checking bank statements don't see refund i've requested seller. ensure receive refund seller?,51,valid
+1796,1796,1796,"waiting patiently week seller get back response, could please help getting money back. thank you.",51,valid
+1797,1797,1797,would like help getting refund back seller. still isn't showing statement requested long time ago. i'm not sure not returned yet. assist getting money back?,51,valid
+1798,1798,1798,long take get refund,51,valid
+1799,1799,1799,received refund however not showing statement,51,valid
+1800,1800,1800,credit card declined.,19,valid
+1801,1801,1801,new card sent declined multiple times yesterday tried use restaurant pay dinner. really disappointed embarrassed card denied tried use pay friend's birthday dinner.,19,valid
+1802,1802,1802,card payment declined?,19,valid
+1803,1803,1803,trying purchase something store today card declined. happened?,19,valid
+1804,1804,1804,"payment declined, thought issue fixed!",19,valid
+1805,1805,1805,card declined shop,19,valid
+1806,1806,1806,decline payment?,19,valid
+1807,1807,1807,card declined,19,valid
+1808,1808,1808,look account ans see card declined,19,valid
+1809,1809,1809,"today looking forward pay new card, turns payment kept getting declined. really sad, what's going on?",19,valid
+1810,1810,1810,transaction card declined?,19,valid
+1811,1811,1811,new card keeps getting declined. excited use first time today. this?,19,valid
+1812,1812,1812,"latest payment declined, told everything back working order. happened?",19,valid
+1813,1813,1813,know enough funds account card payment hasn't worked reason. do?,19,valid
+1814,1814,1814,card payment work,19,valid
+1815,1815,1815,i'm really stuck. don't know card payment not gone through.,19,valid
+1816,1816,1816,"card payment declined, why?",19,valid
+1817,1817,1817,know card payment not work?,19,valid
+1818,1818,1818,something wrong payment account since declined,19,valid
+1819,1819,1819,declining payment? everything fine.,19,valid
+1820,1820,1820,don't know payment didn't work.,19,valid
+1821,1821,1821,card payment not work.,19,valid
+1822,1822,1822,debit card declined money?,19,valid
+1823,1823,1823,card not accepted.,19,valid
+1824,1824,1824,idea card payment not work.,19,valid
+1825,1825,1825,"card payment didn't work, help?",19,valid
+1826,1826,1826,"card rejected store reason, look me?",19,valid
+1827,1827,1827,please explain card declined?,19,valid
+1828,1828,1828,"hello, facing issue new card payments declining again. please help issue.",19,valid
+1829,1829,1829,know card payment declined?,19,valid
+1830,1830,1830,payment declined,19,valid
+1831,1831,1831,declined card payment.,19,valid
+1832,1832,1832,card payment declined?,19,valid
+1833,1833,1833,"finally got new card excited use today. however, payment kept declining. happening?",19,valid
+1834,1834,1834,card payment not complete.,19,valid
+1835,1835,1835,card didn't work one shops.,19,valid
+1836,1836,1836,card payment declined?,19,valid
+1837,1837,1837,"tried using card kept getting declined, why?",19,valid
+1838,1838,1838,fix card payment?,19,valid
+1839,1839,1839,keep declining payment? tried several times already card not working,19,valid
+1840,1840,1840,"transfer, pending",13,valid
+1841,1841,1841,long money transfer show?,13,valid
+1842,1842,1842,transfer not done yet?,13,valid
+1843,1843,1843,pending transfer,13,valid
+1844,1844,1844,waiting pending money transfer process.,13,valid
+1845,1845,1845,transfered however still pending,13,valid
+1846,1846,1846,transfer that's pending wanted know long going take process?,13,valid
+1847,1847,1847,transfer finally worked pending quite long time. long expect wait it? quite urgent,13,valid
+1848,1848,1848,made transfer still pending.,13,valid
+1849,1849,1849,submitted transfer pending quite wondering takes long? hasn't completed,13,valid
+1850,1850,1850,speed transfer? mine pending.,13,valid
+1851,1851,1851,long eu transfer take?,13,valid
+1852,1852,1852,transfer still coming pending.,13,valid
+1853,1853,1853,i'm trying transfer money another country. pending not sending. account details correct. please help me.,13,valid
+1854,1854,1854,transfer still pending know account numbers correct. please help.,13,valid
+1855,1855,1855,"transferred money yesterday, still isn't available?",13,valid
+1856,1856,1856,long transfer stay pending?,13,valid
+1857,1857,1857,long transfer pend for?,13,valid
+1858,1858,1858,hasn't transfer gone yet?,13,valid
+1859,1859,1859,transfer go through?,13,valid
+1860,1860,1860,please explain transfers shows pending?,13,valid
+1861,1861,1861,"double checked correct account details , they're right sure. transfer still pending since forever. done now?",13,valid
+1862,1862,1862,transfer go through?,13,valid
+1863,1863,1863,cause transfer shows pending?,13,valid
+1864,1864,1864,transfer completed?,13,valid
+1865,1865,1865,pending transfer?,13,valid
+1866,1866,1866,"would like know payment still pending, help?",13,valid
+1867,1867,1867,someone transferred money show,13,valid
+1868,1868,1868,long transfer take confirmed?,13,valid
+1869,1869,1869,made transfer 12 hours ago. still listed pending?,13,valid
+1870,1870,1870,"transfer say ""pending""?",13,valid
+1871,1871,1871,long expect transfer pend for?,13,valid
+1872,1872,1872,long transfer pending?,13,valid
+1873,1873,1873,transferring money 2018 another country take long. transfer pending long. verified account details correct.,13,valid
+1874,1874,1874,money transfer not showing?,13,valid
+1875,1875,1875,transfer coming pending payment due today. charged fee?,13,valid
+1876,1876,1876,still waiting money transfer show,13,valid
+1877,1877,1877,transfer hasn't gone yet.,13,valid
+1878,1878,1878,confused transfer could still pending.,13,valid
+1879,1879,1879,long take money transfer show?,13,valid
+1880,1880,1880,remove account please?,15,valid
+1881,1881,1881,"want close account im not sure setting new one future, recommend",15,valid
+1882,1882,1882,account needs deleted.,15,valid
+1883,1883,1883,would like delete account please.,15,valid
+1884,1884,1884,steps need take close account?,15,valid
+1885,1885,1885,i'm tired problems i've had. want quit account!,15,valid
+1886,1886,1886,please delete account right now!,15,valid
+1887,1887,1887,want close account,15,valid
+1888,1888,1888,"unhappy you, delete account",15,valid
+1889,1889,1889,would like delete account.,15,valid
+1890,1890,1890,highly unsatisfied company want delete account!,15,valid
+1891,1891,1891,don't like company. delete account.,15,valid
+1892,1892,1892,would like close account.,15,valid
+1893,1893,1893,company terrible! delete account?,15,valid
+1894,1894,1894,"company bad, please delete account.",15,valid
+1895,1895,1895,"please delete account, services not par.",15,valid
+1896,1896,1896,need help deleting account.,15,valid
+1897,1897,1897,"service company sucks, need terminate account.",15,valid
+1898,1898,1898,delete account!,15,valid
+1899,1899,1899,get rid account asap?,15,valid
+1900,1900,1900,"company isn't good, would like delete account.",15,valid
+1901,1901,1901,delete account please?,15,valid
+1902,1902,1902,not satisfied company would like delete accounts!,15,valid
+1903,1903,1903,please delete account. not happy service company.,15,valid
+1904,1904,1904,please terminate account.,15,valid
+1905,1905,1905,sick damn company want close account.,15,valid
+1906,1906,1906,please close account. unsatisfied service.,15,valid
+1907,1907,1907,please delete account.,15,valid
+1908,1908,1908,"service terrible,. delete account,",15,valid
+1909,1909,1909,want account deleted!,15,valid
+1910,1910,1910,extremely unhappy app want get rid account?,15,valid
+1911,1911,1911,delete account?,15,valid
+1912,1912,1912,company sucks! delete account?,15,valid
+1913,1913,1913,wish close account. not like service provide.,15,valid
+1914,1914,1914,help get rid account?,15,valid
+1915,1915,1915,"don't find services useful anymore, delete account?",15,valid
+1916,1916,1916,"please delete account, company not working me!",15,valid
+1917,1917,1917,want delete account. i'm unhappy service providing.,15,valid
+1918,1918,1918,tell close account?,15,valid
+1919,1919,1919,company sucks! terminate account?,15,valid
+1920,1920,1920,"atm ""stole"" card?",45,valid
+1921,1921,1921,retrieve card machine?,45,valid
+1922,1922,1922,retrieving money card wouldn't remove.,45,valid
+1923,1923,1923,since machine swallowed card. need one.,45,valid
+1924,1924,1924,get card back atm pulled in?,45,valid
+1925,1925,1925,atm took card,45,valid
+1926,1926,1926,way get atm card back machine?,45,valid
+1927,1927,1927,think atm ate card.,45,valid
+1928,1928,1928,atm didn't give card back!,45,valid
+1929,1929,1929,get card damn atm?,45,valid
+1930,1930,1930,atm give card back!,45,valid
+1931,1931,1931,get card back out?,45,valid
+1932,1932,1932,atm machine stole card.,45,valid
+1933,1933,1933,atm metro bank high st. kensington swallowed card. get back?,45,valid
+1934,1934,1934,atm got stuck i'm not sure do.,45,valid
+1935,1935,1935,atm ate card.,45,valid
+1936,1936,1936,atm give card back.,45,valid
+1937,1937,1937,card confiscated atm. get card back?,45,valid
+1938,1938,1938,atm ate card?,45,valid
+1939,1939,1939,atm still card,45,valid
+1940,1940,1940,atm ate card?,45,valid
+1941,1941,1941,happens atm give back card?,45,valid
+1942,1942,1942,can't pull card atm. help me.,45,valid
+1943,1943,1943,problem! atm stole card!,45,valid
+1944,1944,1944,would atm swallow card?,45,valid
+1945,1945,1945,card taken atm.,45,valid
+1946,1946,1946,help! atm give card back.,45,valid
+1947,1947,1947,stupid machine swallowed card!! need new one asap,45,valid
+1948,1948,1948,retrieve trapped card atm?,45,valid
+1949,1949,1949,"card stuck atm, do?",45,valid
+1950,1950,1950,getting cash can't get card back.,45,valid
+1951,1951,1951,"card trapped atm, do?",45,valid
+1952,1952,1952,card swallowed atm,45,valid
+1953,1953,1953,taking funds unable regain card.,45,valid
+1954,1954,1954,atm got stuck?,45,valid
+1955,1955,1955,atm metro bank high st. kensington didn't return card. bank closed?,45,valid
+1956,1956,1956,atm give back card,45,valid
+1957,1957,1957,atm swallowed card.,45,valid
+1958,1958,1958,wtf??? tried withdraw money metro bank high st. kensington without notice disappeared machine. bank already closed couldn't anything. get back?,45,valid
+1959,1959,1959,happens card stuck atm?,45,valid
+1960,1960,1960,got double charged payment fix that?,66,valid
+1961,1961,1961,"i've come back eating holiday usa canada many pending duplicated transactions account. think something wrong, look please?",66,valid
+1962,1962,1962,charged twice fro restaurant?,66,valid
+1963,1963,1963,would like know charged twice purchase.,66,valid
+1964,1964,1964,didn't buy twice,66,valid
+1965,1965,1965,chaged twice thing?,66,valid
+1966,1966,1966,one charge card paid one not twice fix this?,66,valid
+1967,1967,1967,duplicate payment showing app. stop charged thing twice?,66,valid
+1968,1968,1968,would charged transaction?,66,valid
+1969,1969,1969,wondering could two charges item happen 7 day period. anyway could get corrected asap.,66,valid
+1970,1970,1970,please check charged twice?,66,valid
+1971,1971,1971,charged twice,66,valid
+1972,1972,1972,appears double charged items purchased past week. please review correct.,66,valid
+1973,1973,1973,looks like week double charged couple things. way look return double charged items back card?,66,valid
+1974,1974,1974,noticed looking transactions charged twice earlier restaurant visit week. possible one removed get money back one not accurate?,66,valid
+1975,1975,1975,think something may happened caused charge show twice.,66,valid
+1976,1976,1976,transaction shows multiple times?,66,valid
+1977,1977,1977,see looks like duplicate charges account.,66,valid
+1978,1978,1978,charged multiple times thing?,66,valid
+1979,1979,1979,duplicate card got charged twice. resolve this?,66,valid
+1980,1980,1980,hello. checked transactions saw double charged card restaurant visit. would like get money back.,66,valid
+1981,1981,1981,charged twice?,66,valid
+1982,1982,1982,transactions card look really weird. i've charged twice couple things week! please check return double charged ones.,66,valid
+1983,1983,1983,please check payments card. duplicate bought once.,66,valid
+1984,1984,1984,"one time week, charged transaction. please correct issue refund duplicate charges.",66,valid
+1985,1985,1985,transaction repeated several times account.,66,valid
+1986,1986,1986,i've charged transaction,66,valid
+1987,1987,1987,card charged two separate times single transaction.,66,valid
+1988,1988,1988,explain payment showing twice?,66,valid
+1989,1989,1989,charged twice transaction?,66,valid
+1990,1990,1990,see charged multiple times transaction.,66,valid
+1991,1991,1991,double charged,66,valid
+1992,1992,1992,multiple charges transaction.,66,valid
+1993,1993,1993,"looks like card payment duplicated. went pay store earlier, got declined once,second time works. app still stays pending one payments. please remove one wrong clearly declined?",66,valid
+1994,1994,1994,transaction shows several times,66,valid
+1995,1995,1995,recently got charged twice restaurant week would like one payments removed account.,66,valid
+1996,1996,1996,one transaction account.,66,valid
+1997,1997,1997,duplicate payment showing,66,valid
+1998,1998,1998,made payment got charged twice instead once.,66,valid
+1999,1999,1999,remedies think charged twice expense?,66,valid
+2000,2000,2000,verify source funds?,26,valid
+2001,2001,2001,want information source funds.,26,valid
+2002,2002,2002,funds sourced from?,26,valid
+2003,2003,2003,would like verify source money,26,valid
+2004,2004,2004,funds come,26,valid
+2005,2005,2005,source funds.,26,valid
+2006,2006,2006,need verify source funds,26,valid
+2007,2007,2007,would like see source money.,26,valid
+2008,2008,2008,need information source funds?,26,valid
+2009,2009,2009,check source funds?,26,valid
+2010,2010,2010,tell funds came from?,26,valid
+2011,2011,2011,source available funds?,26,valid
+2012,2012,2012,find origination funds?,26,valid
+2013,2013,2013,source funds need verified.,26,valid
+2014,2014,2014,information need verify source funds?,26,valid
+2015,2015,2015,need source funds verified. this?,26,valid
+2016,2016,2016,need funds verified.,26,valid
+2017,2017,2017,help check funds came from.,26,valid
+2018,2018,2018,want know funds come from.,26,valid
+2019,2019,2019,source money?,26,valid
+2020,2020,2020,find source available money?,26,valid
+2021,2021,2021,lookup funds came from?,26,valid
+2022,2022,2022,see history funds came from?,26,valid
+2023,2023,2023,verify source funds,26,valid
+2024,2024,2024,view source available funds?,26,valid
+2025,2025,2025,money come from?,26,valid
+2026,2026,2026,need validate source funds.,26,valid
+2027,2027,2027,funds coming from? need know.,26,valid
+2028,2028,2028,available money come from?,26,valid
+2029,2029,2029,need know money coming from?,26,valid
+2030,2030,2030,see money comes from?,26,valid
+2031,2031,2031,check source funds?,26,valid
+2032,2032,2032,see source money?,26,valid
+2033,2033,2033,"source funds, need verify",26,valid
+2034,2034,2034,funds come from?,26,valid
+2035,2035,2035,check source fund?,26,valid
+2036,2036,2036,see source funds?,26,valid
+2037,2037,2037,become aware funds come from?,26,valid
+2038,2038,2038,money come though?,26,valid
+2039,2039,2039,need verify source funds?,26,valid
+2040,2040,2040,number days wait europe transfer?,69,valid
+2041,2041,2041,wait time transfer us?,69,valid
+2042,2042,2042,need fast transfer china? fast be?,69,valid
+2043,2043,2043,soon see transfer account?,69,valid
+2044,2044,2044,many days take funds account?,69,valid
+2045,2045,2045,long transfer goes through?,69,valid
+2046,2046,2046,transfers europe take longer?,69,valid
+2047,2047,2047,fastest make transfer?,69,valid
+2048,2048,2048,long dies take transfers reflect balance,69,valid
+2049,2049,2049,"started bank transfer europe, long process take complete?",69,valid
+2050,2050,2050,long money account?,69,valid
+2051,2051,2051,transfer reach account?,69,valid
+2052,2052,2052,expect see transfer hit account?,69,valid
+2053,2053,2053,transfer immediately show account?,69,valid
+2054,2054,2054,"need quick transfer china, long expect transfer take?",69,valid
+2055,2055,2055,money get transferred account,69,valid
+2056,2056,2056,long wait transfer reach account?,69,valid
+2057,2057,2057,long take funds come us account?,69,valid
+2058,2058,2058,long europe transfer wait?,69,valid
+2059,2059,2059,many days transfer us take?,69,valid
+2060,2060,2060,long wait transfer us?,69,valid
+2061,2061,2061,long wait us transfer?,69,valid
+2062,2062,2062,many days money account?,69,valid
+2063,2063,2063,long take transfer?,69,valid
+2064,2064,2064,time frame transfer us?,69,valid
+2065,2065,2065,receive us transfer,69,valid
+2066,2066,2066,approximately long urgent transfer china take?,69,valid
+2067,2067,2067,"initiated bank transfer form europe, long take?",69,valid
+2068,2068,2068,long take process transfers europe?,69,valid
+2069,2069,2069,long funds transfer take one back another?,69,valid
+2070,2070,2070,would approximate delivery date transferred something urgently china?,69,valid
+2071,2071,2071,transfer something china fast can. long take arrive china?,69,valid
+2072,2072,2072,long wait transfer reach account?,69,valid
+2073,2073,2073,long going take funds show account?,69,valid
+2074,2074,2074,"long transfer take point sent, point arrives account?",69,valid
+2075,2075,2075,long take transfer reach account?,69,valid
+2076,2076,2076,transfer europe long take?,69,valid
+2077,2077,2077,important thing china need transfer. approximately long take?,69,valid
+2078,2078,2078,long transfer take china?,69,valid
+2079,2079,2079,money available account?,69,valid
+2080,2080,2080,think card payment stopped,21,valid
+2081,2081,2081,card payment reverted. why?,21,valid
+2082,2082,2082,app reverted payment,21,valid
+2083,2083,2083,card payment cancelled.,21,valid
+2084,2084,2084,payment cancelled?,21,valid
+2085,2085,2085,made payment app reverted payment.,21,valid
+2086,2086,2086,payment reverted app,21,valid
+2087,2087,2087,"hello, money went purchase got contacted seller noting didn't receive it. money returned account i'm not sure occurred. resolve issue please.",21,valid
+2088,2088,2088,please explain circumstances card payment would reverted?,21,valid
+2089,2089,2089,card payment cancelled?,21,valid
+2090,2090,2090,says card payment cancelled?,21,valid
+2091,2091,2091,i'm not sure account refunded payment item i've already received 2 weeks ago. please tell going on?,21,valid
+2092,2092,2092,card declined purchase. bought items card worked. know problem is?,21,valid
+2093,2093,2093,tell card payment reverted.,21,valid
+2094,2094,2094,app refuse make approved payment,21,valid
+2095,2095,2095,know card payment reverted?,21,valid
+2096,2096,2096,credit card cancelled payment purchase.,21,valid
+2097,2097,2097,payment reversed?,21,valid
+2098,2098,2098,payment listed cancelled.,21,valid
+2099,2099,2099,think card payment return,21,valid
+2100,2100,2100,contacted seller message never received money. 100% sure taken account definitely need sorted soon.,21,valid
+2101,2101,2101,happens funds merchant refuses payment,21,valid
+2102,2102,2102,"attempting make purchase online, card not working. know funds available, issue banks end?",21,valid
+2103,2103,2103,card payment cancelled?,21,valid
+2104,2104,2104,card payment reverted?,21,valid
+2105,2105,2105,"must issue, card cancelled?",21,valid
+2106,2106,2106,bought something money appeared back account? why?,21,valid
+2107,2107,2107,account shows card payment cancelled.,21,valid
+2108,2108,2108,"i'm not sure card payment cancelled, find why?",21,valid
+2109,2109,2109,reason card payment cancelled?,21,valid
+2110,2110,2110,"hi, would like file claim inquiry. frequent customer company question never issue purchases, payments, otherwise. however, price deducted item purchased couple weeks ago returned checking account. issue payment? item already delivered me.",21,valid
+2111,2111,2111,card payment reverted?,21,valid
+2112,2112,2112,app revert payment?,21,valid
+2113,2113,2113,payment app reverted,21,valid
+2114,2114,2114,happens merchant accept payment?,21,valid
+2115,2115,2115,canceled payment card.,21,valid
+2116,2116,2116,transaction pay item returned account.,21,valid
+2117,2117,2117,someone stopped payment,21,valid
+2118,2118,2118,"card payment cancelled, do?",21,valid
+2119,2119,2119,payment returned?,21,valid
+2120,2120,2120,kind cash machines would allow change pin?,22,valid
+2121,2121,2121,change pin?,22,valid
+2122,2122,2122,bank place change pin>,22,valid
+2123,2123,2123,"overseas, change pin?",22,valid
+2124,2124,2124,change pin atm?,22,valid
+2125,2125,2125,might change pin?,22,valid
+2126,2126,2126,would like change pin not currently country.,22,valid
+2127,2127,2127,would like change card pin.,22,valid
+2128,2128,2128,want set new pin,22,valid
+2129,2129,2129,"desperately need change pin, i'm overseas vacation right now. this?",22,valid
+2130,2130,2130,need new pin go that?,22,valid
+2131,2131,2131,location near change pin?,22,valid
+2132,2132,2132,atm change pin?,22,valid
+2133,2133,2133,i'd like make new pin selection.,22,valid
+2134,2134,2134,set new pin?,22,valid
+2135,2135,2135,update pin new number?,22,valid
+2136,2136,2136,change tholepin ?,22,valid
+2137,2137,2137,new pin needs set.,22,valid
+2138,2138,2138,want choose different pin.,22,valid
+2139,2139,2139,would like change pin.,22,valid
+2140,2140,2140,able change pin cash machines?,22,valid
+2141,2141,2141,travelling two weeks really need change pin asap. do?,22,valid
+2142,2142,2142,need change pin. cash machine?,22,valid
+2143,2143,2143,cash machines let change pin?,22,valid
+2144,2144,2144,change pin?,22,valid
+2145,2145,2145,need change pin.,22,valid
+2146,2146,2146,may receive different card pin,22,valid
+2147,2147,2147,need change pin?,22,valid
+2148,2148,2148,help set new pin?,22,valid
+2149,2149,2149,cash machines allow change pin?,22,valid
+2150,2150,2150,"austria right now. need change pin asap, still here?",22,valid
+2151,2151,2151,find instructions change pin?,22,valid
+2152,2152,2152,need change pin road.,22,valid
+2153,2153,2153,update pin account?,22,valid
+2154,2154,2154,need new pin.,22,valid
+2155,2155,2155,show change pin?,22,valid
+2156,2156,2156,please tell cash machines allow change pin.,22,valid
+2157,2157,2157,steps need take change card pin?,22,valid
+2158,2158,2158,change pin card?,22,valid
+2159,2159,2159,change pin? go real bank?,22,valid
+2160,2160,2160,i've tried numerous times submit transfer funds. isn't going through?,48,valid
+2161,2161,2161,i've transferred money without issue encountering error stating isn't possible. that?,48,valid
+2162,2162,2162,not able transfer account,48,valid
+2163,2163,2163,unable make transfer another account.,48,valid
+2164,2164,2164,transfer blocked,48,valid
+2165,2165,2165,please help exchange? trying get crypto app let me.,48,valid
+2166,2166,2166,successful transfer account?,48,valid
+2167,2167,2167,get message saying transfer not possible? done problem. please fix.,48,valid
+2168,2168,2168,"hey want buy crypto app allow to! what's issue, really want exchange",48,valid
+2169,2169,2169,tried transfer money said wasn't possible? i've done worked isn't working now?,48,valid
+2170,2170,2170,can't transfer beneficiary?,48,valid
+2171,2171,2171,problems transferring beneficiary.,48,valid
+2172,2172,2172,what's deal cryptocurrency app?,48,valid
+2173,2173,2173,isn't transfer not going through? keep getting error message.,48,valid
+2174,2174,2174,rules transferring beneficiary?,48,valid
+2175,2175,2175,transfer money beneficiery?,48,valid
+2176,2176,2176,tried transferring money numerous times. keep getting error message. tell going van fixed?,48,valid
+2177,2177,2177,cryptocurrency exchange go through. please help process it.,48,valid
+2178,2178,2178,wasn't able transfer another account?,48,valid
+2179,2179,2179,money would not transfer beneficiary.,48,valid
+2180,2180,2180,come i'm not allowed transfer funds right now? keep getting error message.,48,valid
+2181,2181,2181,couldn't transfer account,48,valid
+2182,2182,2182,transfer account not allowed,48,valid
+2183,2183,2183,receive error message saying transfer not possible?,48,valid
+2184,2184,2184,explain can't transfer beneficiary.,48,valid
+2185,2185,2185,transfer beneficiary didn't go,48,valid
+2186,2186,2186,isn't transfer going through? get message saying not possible. i've issues past.,48,valid
+2187,2187,2187,couldn't make transfer beneficiary!,48,valid
+2188,2188,2188,"beneficiary denied, normal?",48,valid
+2189,2189,2189,trying exchange crypto not working. tell fix this.,48,valid
+2190,2190,2190,account transfer trying failed.,48,valid
+2191,2191,2191,"beneficiary not allowed, please may answer is?",48,valid
+2192,2192,2192,couldn't transfer beneficiary?,48,valid
+2193,2193,2193,would not able transfer beneficiary?,48,valid
+2194,2194,2194,want transfer money beneficiery. can't i?,48,valid
+2195,2195,2195,help transfer account,48,valid
+2196,2196,2196,isnt account allowing transfers,48,valid
+2197,2197,2197,"want buy cryptocurrency, app let me. why?",48,valid
+2198,2198,2198,tried make transfer beneficiary didn't go,48,valid
+2199,2199,2199,transfer account not allowed?,48,valid
+2200,2200,2200,"made transfer, fee. why?",30,valid
+2201,2201,2201,charged fee transfer.,30,valid
+2202,2202,2202,reason charged fee transfer?,30,valid
+2203,2203,2203,charged transferring?,30,valid
+2204,2204,2204,pay order transfer,30,valid
+2205,2205,2205,transfer fee charge?,30,valid
+2206,2206,2206,charged extra transferring money?,30,valid
+2207,2207,2207,im not paying transfer fee,30,valid
+2208,2208,2208,charged transfer fee free?,30,valid
+2209,2209,2209,maximum transfer incur fees?,30,valid
+2210,2210,2210,got 2 transfer fees thought transfers free.,30,valid
+2211,2211,2211,charged fee transferring money?,30,valid
+2212,2212,2212,charge fees transfers?,30,valid
+2213,2213,2213,"recently got new place i'm staying abroad using account manage payments, suddenly seeing fees increase. additional fees coming from?",30,valid
+2214,2214,2214,"hi, please help me, transferred amount receiver not get amount. received bit less. due need transfer difference. transferred money beneficiary's account credited less amount. transfer difference amount. think issue, could please look this.",30,valid
+2215,2215,2215,"get charged something bought online? even though international, thought would covered.",30,valid
+2216,2216,2216,additional charges transferring?,30,valid
+2217,2217,2217,charged transferred!,30,valid
+2218,2218,2218,transfer fee?,30,valid
+2219,2219,2219,i'm not sure charged extra fee transferring funds.,30,valid
+2220,2220,2220,"thought transfers free, charged fee?",30,valid
+2221,2221,2221,"receipt shows extra charge transfer, this?",30,valid
+2222,2222,2222,"charged fee making transfer, don't think been!",30,valid
+2223,2223,2223,"sent money, charged extra transferring. why?",30,valid
+2224,2224,2224,seeing transfer fee?,30,valid
+2225,2225,2225,extra charge made transfer.,30,valid
+2226,2226,2226,need someone alert what's going on. transferred amount receiver saying amount somewhat less sent over. make another transfer make difference.,30,valid
+2227,2227,2227,"charge fee transfer, why?",30,valid
+2228,2228,2228,fee transfer?,30,valid
+2229,2229,2229,transfer charged fees?,30,valid
+2230,2230,2230,supposed fee transfer made?,30,valid
+2231,2231,2231,past month often used account manage payments new holiday villa. sudden fees increased exorbitantly! don't rewards programme frequent users?,30,valid
+2232,2232,2232,charged fee transfer?,30,valid
+2233,2233,2233,extra charges there?,30,valid
+2234,2234,2234,know able make transfers free. something valued. bought something online abroad noticed got charged fee? removed?,30,valid
+2235,2235,2235,transferred money charged want know why.,30,valid
+2236,2236,2236,charged something didn't expect,30,valid
+2237,2237,2237,"purchased makeup site china, impression make transfers fee. seeing fee now? not happy all.",30,valid
+2238,2238,2238,got charged extra fee transferred money charged?,30,valid
+2239,2239,2239,explain transfer fee me?,30,valid
+2240,2240,2240,salary received this?,47,valid
+2241,2241,2241,get paid different currency?,47,valid
+2242,2242,2242,receive salary currency deposited in?,47,valid
+2243,2243,2243,get salary this?,47,valid
+2244,2244,2244,someone send money?,47,valid
+2245,2245,2245,problem receiving salary gbp?,47,valid
+2246,2246,2246,need choose gbp get salary deposited properly?,47,valid
+2247,2247,2247,"get paid gbp. configure so, where?",47,valid
+2248,2248,2248,possible get money different currency?,47,valid
+2249,2249,2249,use receive salary?,47,valid
+2250,2250,2250,salary received form gbp. need anything specific configure this?,47,valid
+2251,2251,2251,people send money?,47,valid
+2252,2252,2252,gbp supported currency?,47,valid
+2253,2253,2253,need establish paid gbp transfer?,47,valid
+2254,2254,2254,"salary gbp received, need configured elsewhere?",47,valid
+2255,2255,2255,get salary account?,47,valid
+2256,2256,2256,ways others transfer money?,47,valid
+2257,2257,2257,different ways someone send money?,47,valid
+2258,2258,2258,need transfer paycheck account?,47,valid
+2259,2259,2259,friend send money?,47,valid
+2260,2260,2260,directly transfer salary onto here?,47,valid
+2261,2261,2261,used receive salary?,47,valid
+2262,2262,2262,possible deposit money gbp?,47,valid
+2263,2263,2263,received salary gbp. change currency?,47,valid
+2264,2264,2264,friend transfer money me?,47,valid
+2265,2265,2265,friends send money?,47,valid
+2266,2266,2266,deposit paycheck account?,47,valid
+2267,2267,2267,use account receive salary?,47,valid
+2268,2268,2268,deposit salary account?,47,valid
+2269,2269,2269,get salary account?,47,valid
+2270,2270,2270,need salary different currency?,47,valid
+2271,2271,2271,receive salary gbp. need configure somehwere?,47,valid
+2272,2272,2272,know use salary?,47,valid
+2273,2273,2273,get paycheck this?,47,valid
+2274,2274,2274,transfer salary different currency?,47,valid
+2275,2275,2275,get paid different currency?,47,valid
+2276,2276,2276,salary eligible this?,47,valid
+2277,2277,2277,salary gbp; note app?,47,valid
+2278,2278,2278,get paid another currency?,47,valid
+2279,2279,2279,get paycheck here?,47,valid
+2280,2280,2280,dont understand transfer failed,41,valid
+2281,2281,2281,please help make transfer. keep receiving error i'm trying make initial mortgage payment flat i'm buying. deal here?,41,valid
+2282,2282,2282,transfer didn't work,41,valid
+2283,2283,2283,"fix system. can't make transfers, i've tried like 5 times already.",41,valid
+2284,2284,2284,tell transfer failed!,41,valid
+2285,2285,2285,transfer not go through.,41,valid
+2286,2286,2286,not able complete transfer?,41,valid
+2287,2287,2287,help figure what's happening? i'm trying transfer money friend keeps getting returned. i'm not sure i'm wrong.,41,valid
+2288,2288,2288,transfer not go through?,41,valid
+2289,2289,2289,transfer didn't go through.,41,valid
+2290,2290,2290,could not get transfer happen correctly wondering why?,41,valid
+2291,2291,2291,come transfer didn't work,41,valid
+2292,2292,2292,"transferred funds, not go through?",41,valid
+2293,2293,2293,transfer failed?,41,valid
+2294,2294,2294,transfer fail?,41,valid
+2295,2295,2295,hasn't transfer made?,41,valid
+2296,2296,2296,transfer not go through.,41,valid
+2297,2297,2297,transfer keeps failing want transfer money please make work?,41,valid
+2298,2298,2298,"transfer keeps failing , tried transfer money friends morning keeps getting rejected reason, would please check issue ?",41,valid
+2299,2299,2299,would transfer fail?,41,valid
+2300,2300,2300,policies card transfers?,41,valid
+2301,2301,2301,system down? i've trying transfer failed?,41,valid
+2302,2302,2302,tried make transfer failed,41,valid
+2303,2303,2303,couldn't complete transfer?,41,valid
+2304,2304,2304,transfer appeared not work.,41,valid
+2305,2305,2305,stopping money transferring?,41,valid
+2306,2306,2306,"hi, i'm buying flat i'm trying get mortgage go though. every time check simply get error message. way help get money transferred over. thanks!",41,valid
+2307,2307,2307,attempted transfer failed.,41,valid
+2308,2308,2308,"not seem make successful transfer, tell i'm wrong?",41,valid
+2309,2309,2309,"please help continuously facing issue transferring money friends, transactions getting failed.",41,valid
+2310,2310,2310,"trying make transfer unsuccessful, please tell why?",41,valid
+2311,2311,2311,transfer not seem work.,41,valid
+2312,2312,2312,"i've trying really standard transfer 5 times already. what's going on, system broken something?!",41,valid
+2313,2313,2313,help transfer,41,valid
+2314,2314,2314,says transfer can't completed?,41,valid
+2315,2315,2315,tell transfer failed?,41,valid
+2316,2316,2316,didn't transfer go through?,41,valid
+2317,2317,2317,i've attempted standard transfer tried 5 times point. tell issue is? system down?,41,valid
+2318,2318,2318,provide reason transfer not work?,41,valid
+2319,2319,2319,tried transfer money not work.,41,valid
+2320,2320,2320,bank transfer put additional money account money?,70,valid
+2321,2321,2321,"i'm money, add money bank?",70,valid
+2322,2322,2322,go forth transferring money account?,70,valid
+2323,2323,2323,"don't understand top account, please explain process?",70,valid
+2324,2324,2324,don't understand money transfer process.,70,valid
+2325,2325,2325,"need transfer money account, go this?",70,valid
+2326,2326,2326,need transfer money account?,70,valid
+2327,2327,2327,don't know do. transfer funds. account money.,70,valid
+2328,2328,2328,add funds card directly bank account?,70,valid
+2329,2329,2329,tranferring money account work?,70,valid
+2330,2330,2330,need know transfer money bank account. please help,70,valid
+2331,2331,2331,would like transfer money bank account one.,70,valid
+2332,2332,2332,"want transfer money account, that?",70,valid
+2333,2333,2333,need transfer funds account. this?,70,valid
+2334,2334,2334,steps follow transfer money account?,70,valid
+2335,2335,2335,transfer funds bank top account?,70,valid
+2336,2336,2336,want top account using bank transfer. would work?,70,valid
+2337,2337,2337,transfer funds account?,70,valid
+2338,2338,2338,top card?,70,valid
+2339,2339,2339,transfer money outside bank?,70,valid
+2340,2340,2340,fund top-up account using bank account?,70,valid
+2341,2341,2341,methods use add money account?,70,valid
+2342,2342,2342,"would like use bank transfer feature, can't find it. please give details?",70,valid
+2343,2343,2343,perform dual money transferring one account another?,70,valid
+2344,2344,2344,explain transfer money account me?,70,valid
+2345,2345,2345,"need bank account transfer another account one, easiest way done, information need?",70,valid
+2346,2346,2346,transfer money account?,70,valid
+2347,2347,2347,send account money transfer?,70,valid
+2348,2348,2348,international transfer?,70,valid
+2349,2349,2349,ways transfer money account?,70,valid
+2350,2350,2350,want transfer accounts order top up. steps necessary.,70,valid
+2351,2351,2351,transfer work?,70,valid
+2352,2352,2352,"would like use bank transfer, don't understand process, please explain, topping up?",70,valid
+2353,2353,2353,want use bank transfer topping account. handled?,70,valid
+2354,2354,2354,checked account today said money. transfer money account?,70,valid
+2355,2355,2355,transfer money account?,70,valid
+2356,2356,2356,would like transfer funds one account another.,70,valid
+2357,2357,2357,i'm trying transfer money account.,70,valid
+2358,2358,2358,would like transfer money bank account one.,70,valid
+2359,2359,2359,use bank transfer refill account?,70,valid
+2360,2360,2360,needed verify top-up card?,55,valid
+2361,2361,2361,wants verify top up. why?,55,valid
+2362,2362,2362,find top-up verification code?,55,valid
+2363,2363,2363,verify top-up started?,55,valid
+2364,2364,2364,give information verification code?,55,valid
+2365,2365,2365,benefits verifying top-up?,55,valid
+2366,2366,2366,come verification top,55,valid
+2367,2367,2367,verify top up?,55,valid
+2368,2368,2368,reason need verify top,55,valid
+2369,2369,2369,need code verification top up?,55,valid
+2370,2370,2370,find verification code top-up card?,55,valid
+2371,2371,2371,get top-up verification code?,55,valid
+2372,2372,2372,possible verify top up?,55,valid
+2373,2373,2373,normal verify top-up something wrong?,55,valid
+2374,2374,2374,top-up need verification?,55,valid
+2375,2375,2375,top-up need verifying?,55,valid
+2376,2376,2376,necessary verify top up?,55,valid
+2377,2377,2377,verify top-ups?,55,valid
+2378,2378,2378,where's verification code top-up card?,55,valid
+2379,2379,2379,find verification code top-up card?,55,valid
+2380,2380,2380,important verify top-up card?,55,valid
+2381,2381,2381,verify top-up?,55,valid
+2382,2382,2382,verification code top-up?,55,valid
+2383,2383,2383,can't find top-up verification code.,55,valid
+2384,2384,2384,go forth verifying top-up card?,55,valid
+2385,2385,2385,find top-up verification code?,55,valid
+2386,2386,2386,top-up card verified?,55,valid
+2387,2387,2387,verification code top-up card?,55,valid
+2388,2388,2388,importance verifying top-up?,55,valid
+2389,2389,2389,help find top-up card's verification code?,55,valid
+2390,2390,2390,don't understand says verify top-up.,55,valid
+2391,2391,2391,verify top-up card used?,55,valid
+2392,2392,2392,go get code verify top card?,55,valid
+2393,2393,2393,top-up verification code missing,55,valid
+2394,2394,2394,verify top-up?,55,valid
+2395,2395,2395,cannot locate verification code top-up card. please help me.,55,valid
+2396,2396,2396,find top-up verification code?,55,valid
+2397,2397,2397,need help finding verification code top-up card.,55,valid
+2398,2398,2398,verification code top-ups?,55,valid
+2399,2399,2399,necessity verifying top up?,55,valid
+2400,2400,2400,would possible get another card?,63,valid
+2401,2401,2401,many cards one account?,63,valid
+2402,2402,2402,want order another crad,63,valid
+2403,2403,2403,get additional cards?,63,valid
+2404,2404,2404,fee extra cards?,63,valid
+2405,2405,2405,need spare physical cards.,63,valid
+2406,2406,2406,would like receive physical cards.,63,valid
+2407,2407,2407,card first one?,63,valid
+2408,2408,2408,would go getting second card?,63,valid
+2409,2409,2409,i'd like another card,63,valid
+2410,2410,2410,"need cards, fees?",63,valid
+2411,2411,2411,offer multiple cards account?,63,valid
+2412,2412,2412,get spare card someone else use?,63,valid
+2413,2413,2413,need get physical cards.,63,valid
+2414,2414,2414,"would able get another card account, could give one daughter?",63,valid
+2415,2415,2415,procedure getting another card?,63,valid
+2416,2416,2416,second card?,63,valid
+2417,2417,2417,"daughter would like card well, make happen?",63,valid
+2418,2418,2418,give second card daughter?,63,valid
+2419,2419,2419,may another card?,63,valid
+2420,2420,2420,fee sending one card?,63,valid
+2421,2421,2421,order extra cards?,63,valid
+2422,2422,2422,get second card?,63,valid
+2423,2423,2423,looking buy another card today.,63,valid
+2424,2424,2424,need physical cards.,63,valid
+2425,2425,2425,second physical card account?,63,valid
+2426,2426,2426,purchase extra non-virtual cards?,63,valid
+2427,2427,2427,allowed give daughter one cards use?,63,valid
+2428,2428,2428,may second card?,63,valid
+2429,2429,2429,card daughter?,63,valid
+2430,2430,2430,restrictions ordering extra cards?,63,valid
+2431,2431,2431,get second card daughter?,63,valid
+2432,2432,2432,request another card?,63,valid
+2433,2433,2433,able get second card?,63,valid
+2434,2434,2434,"send cards, charges?",63,valid
+2435,2435,2435,trying get one card extra amount needs paid?,63,valid
+2436,2436,2436,possible give second card account daughter?,63,valid
+2437,2437,2437,daughter needs card. give one mine that's linked account?,63,valid
+2438,2438,2438,"child needs card, add account currently have?",63,valid
+2439,2439,2439,"daughter needs card, add her?",63,valid
+2440,2440,2440,top cheque?,57,valid
+2441,2441,2441,top-up using cash?,57,valid
+2442,2442,2442,top cheque?,57,valid
+2443,2443,2443,possible top cash? it?,57,valid
+2444,2444,2444,help find top cash deposit?,57,valid
+2445,2445,2445,option top cheque?,57,valid
+2446,2446,2446,need deposit cheque account,57,valid
+2447,2447,2447,i'm looking cash deposit top option can't find it. help me?,57,valid
+2448,2448,2448,top account cash payment?,57,valid
+2449,2449,2449,i'd like use cash top up. find option?,57,valid
+2450,2450,2450,locate topping cash.,57,valid
+2451,2451,2451,pay check?,57,valid
+2452,2452,2452,add account balance cheque?,57,valid
+2453,2453,2453,type deposits accept account?,57,valid
+2454,2454,2454,top using cheque?,57,valid
+2455,2455,2455,top-up card cheque?,57,valid
+2456,2456,2456,"need top cash, it?",57,valid
+2457,2457,2457,i'm looking option top cheque.,57,valid
+2458,2458,2458,locations top cash?,57,valid
+2459,2459,2459,"want top using cash, that?",57,valid
+2460,2460,2460,way top cash deposit,57,valid
+2461,2461,2461,options top cheque account?,57,valid
+2462,2462,2462,use cash top account?,57,valid
+2463,2463,2463,top cash?,57,valid
+2464,2464,2464,accept cheque top account?,57,valid
+2465,2465,2465,top cheque got?,57,valid
+2466,2466,2466,methods use top account?,57,valid
+2467,2467,2467,cash good top with?,57,valid
+2468,2468,2468,come can't find anywhere load using cash,57,valid
+2469,2469,2469,pay with? cash work?,57,valid
+2470,2470,2470,deposit cash account?,57,valid
+2471,2471,2471,can't top cheque?,57,valid
+2472,2472,2472,send cheque top ups?,57,valid
+2473,2473,2473,top account cheque?,57,valid
+2474,2474,2474,want cash top-up,57,valid
+2475,2475,2475,"cheque here, use top account?",57,valid
+2476,2476,2476,want top-up using cash,57,valid
+2477,2477,2477,top-up card?,57,valid
+2478,2478,2478,submit check cash payment?,57,valid
+2479,2479,2479,accept checks?,57,valid
+2480,2480,2480,receive physical card,11,valid
+2481,2481,2481,want card. procedure?,11,valid
+2482,2482,2482,charge physical cards?,11,valid
+2483,2483,2483,get card at?,11,valid
+2484,2484,2484,price physical card,11,valid
+2485,2485,2485,"please, order card?",11,valid
+2486,2486,2486,send physical card,11,valid
+2487,2487,2487,want order card. deliver to?,11,valid
+2488,2488,2488,request physical card?,11,valid
+2489,2489,2489,charge physical cards,11,valid
+2490,2490,2490,charge physical cards,11,valid
+2491,2491,2491,ship cards live?,11,valid
+2492,2492,2492,"physical cards, charge?",11,valid
+2493,2493,2493,need get actual card use person transactions. would this?,11,valid
+2494,2494,2494,get real card?,11,valid
+2495,2495,2495,deliver cards?,11,valid
+2496,2496,2496,cards delivered to?,11,valid
+2497,2497,2497,please tell get physical card.,11,valid
+2498,2498,2498,charge physical card?,11,valid
+2499,2499,2499,non-electronic card available well,11,valid
+2500,2500,2500,much cost fees use card?,11,valid
+2501,2501,2501,get physical card,11,valid
+2502,2502,2502,get physical card app?,11,valid
+2503,2503,2503,non virtual card?,11,valid
+2504,2504,2504,get physical card?,11,valid
+2505,2505,2505,fees get physical card?,11,valid
+2506,2506,2506,card delivered?,11,valid
+2507,2507,2507,charged physical card?,11,valid
+2508,2508,2508,order card?,11,valid
+2509,2509,2509,locations card delivered to?,11,valid
+2510,2510,2510,receive card?,11,valid
+2511,2511,2511,deliver cards mail?,11,valid
+2512,2512,2512,get real-life card own?,11,valid
+2513,2513,2513,find card?,11,valid
+2514,2514,2514,"want physical card, pay anything?",11,valid
+2515,2515,2515,cards delivered?,11,valid
+2516,2516,2516,need physical card.,11,valid
+2517,2517,2517,fees physical card?,11,valid
+2518,2518,2518,get actual card?,11,valid
+2519,2519,2519,get real card?,11,valid
+2520,2520,2520,disposable virtual card denied?,10,valid
+2521,2521,2521,disposable virtual card seem work,10,valid
+2522,2522,2522,disposable virtual card broken.,10,valid
+2523,2523,2523,non-physical card not work,10,valid
+2524,2524,2524,disposable virtual card used pay gym subscription get denied?,10,valid
+2525,2525,2525,virtual card declined?,10,valid
+2526,2526,2526,restrictions disposable card since not seem working?,10,valid
+2527,2527,2527,cannot get virtual card work.,10,valid
+2528,2528,2528,store earlier virtual card didn't work. what's solution problem?,10,valid
+2529,2529,2529,disposable virtual card not work,10,valid
+2530,2530,2530,cannot use disposable virtual card.,10,valid
+2531,2531,2531,make multiple online transactions virtual card?,10,valid
+2532,2532,2532,virtual card declined attempting setup automatic billing?,10,valid
+2533,2533,2533,disposable virtual card work?,10,valid
+2534,2534,2534,can't use virtual card subscription services?,10,valid
+2535,2535,2535,isn't virtual card working?,10,valid
+2536,2536,2536,cannot make transactions virtual card.,10,valid
+2537,2537,2537,"reason, virtual card work me.",10,valid
+2538,2538,2538,disposable virtual card rejected merchant earlier today. do?,10,valid
+2539,2539,2539,fix problem virtual card rejected?,10,valid
+2540,2540,2540,virtual card isn't working. do?,10,valid
+2541,2541,2541,virtual card work.,10,valid
+2542,2542,2542,trick get disposable virtual card work?,10,valid
+2543,2543,2543,can't get virtual card work?,10,valid
+2544,2544,2544,card not working time.,10,valid
+2545,2545,2545,disposable card seems not working something wrong?,10,valid
+2546,2546,2546,payments virtual card keep getting rejected.,10,valid
+2547,2547,2547,disposable virtual card not working try use point sale transaction. now?,10,valid
+2548,2548,2548,transaction declined using disposable virtual card. do?,10,valid
+2549,2549,2549,disposable virtual card not working,10,valid
+2550,2550,2550,get disposable virtual card work?,10,valid
+2551,2551,2551,come disposable virtual card used pay gym subscription got rejected?,10,valid
+2552,2552,2552,payments disposable virtual card don't work,10,valid
+2553,2553,2553,"disposable virtual card rejected merchant, please help?",10,valid
+2554,2554,2554,virtual card work.,10,valid
+2555,2555,2555,tell virtual disposable card work.,10,valid
+2556,2556,2556,need help getting virtual card work.,10,valid
+2557,2557,2557,trying use virtual card merchant rejected. fix this?,10,valid
+2558,2558,2558,make virtual card work?,10,valid
+2559,2559,2559,virtual card not working,10,valid
+2560,2560,2560,not get right amount money used different country's currency.,61,valid
+2561,2561,2561,took money transaction machine exchanged wrong dollar value amount another currency!,61,valid
+2562,2562,2562,made withdraw atm past holiday seems like charged much. would known charges wouldn't made withdraw.,61,valid
+2563,2563,2563,look make sure exchange rate correct,61,valid
+2564,2564,2564,exchange rate cash withdrawal wrong,61,valid
+2565,2565,2565,hello. i'm holiday didn't bring cash me. need withdrawal home currency one machines. charge?,61,valid
+2566,2566,2566,exchange rate wrong got cash,61,valid
+2567,2567,2567,attempted get money using foreign currency atm rate highly inaccurate!,61,valid
+2568,2568,2568,exchange rate wrong international withdrawal?,61,valid
+2569,2569,2569,wrong exchange rate applied transaction made abroad.,61,valid
+2570,2570,2570,exchange rate gave cash withdrawal wrong,61,valid
+2571,2571,2571,fee exchanging cash?,61,valid
+2572,2572,2572,exchange rate exorbitant? much higher amount cash apply.,61,valid
+2573,2573,2573,exchange rate different withdrew cash?,61,valid
+2574,2574,2574,"got cash, exchange rate wrong.",61,valid
+2575,2575,2575,additional costs make withdrawal local atm british pounds? need cash feel comfortable journey home,61,valid
+2576,2576,2576,seems overcharged used atm vacation. knew fees advance sure would gone somewhere else.,61,valid
+2577,2577,2577,checked exchange rate withdrew cash. actual rate applied different.,61,valid
+2578,2578,2578,"receiving cash, wrong exchange rate used transaction.",61,valid
+2579,2579,2579,make withdraw country fees atm?,61,valid
+2580,2580,2580,took foreign currency exchange rate wrong.,61,valid
+2581,2581,2581,feel like much money taken currency exchange.,61,valid
+2582,2582,2582,error exchange rate cash withdrawal,61,valid
+2583,2583,2583,"need right foreign money, right rate, atms, go abroad.",61,valid
+2584,2584,2584,conversion rate atm used foreign currency wrong.,61,valid
+2585,2585,2585,exchange rate foreign atm different,61,valid
+2586,2586,2586,cash withdrawal charged wrong exchange rate,61,valid
+2587,2587,2587,withdrew cash atm holiday. seems charged outrageous fees. would not done aware outrageous charges!,61,valid
+2588,2588,2588,exchange rate withdrawal isn't correct match actual exchange rate.,61,valid
+2589,2589,2589,explain exchange rate policy? don't think received correct amount cash atm transaction.,61,valid
+2590,2590,2590,ecchange rate wrong cash transaction.,61,valid
+2591,2591,2591,expected higher exchange rate withdrew money. tell current exchange rates?,61,valid
+2592,2592,2592,see rate applied transaction wrong atm.,61,valid
+2593,2593,2593,rate exchange isn't right cash withdrawal.,61,valid
+2594,2594,2594,took cash abroad exchange rate isn't correct.,61,valid
+2595,2595,2595,used atm foreign currency rate applied wrong!,61,valid
+2596,2596,2596,determine exchange rates one got cash,61,valid
+2597,2597,2597,used atm machine get money holiday shopping saw outrageous charges. that? would not used atm known!,61,valid
+2598,2598,2598,cash withdrawal exchange rate not correct.,61,valid
+2599,2599,2599,"local atm provide british pounds, money homeward journey not feel comfortable waiting arrive britain. withdrawal involve extra charges?",61,valid
+2600,2600,2600,get description use disposable virtual card,7,valid
+2601,2601,2601,create disposable virtual card?,7,valid
+2602,2602,2602,tell getting virtual disposable card?,7,valid
+2603,2603,2603,would like order disposable virtual card. this?,7,valid
+2604,2604,2604,vr cards work,7,valid
+2605,2605,2605,disposable virtual card?,7,valid
+2606,2606,2606,would like temporary virtual card,7,valid
+2607,2607,2607,disposable cards work?,7,valid
+2608,2608,2608,use disposable virtual card?,7,valid
+2609,2609,2609,where's best place get disposable virtual card?,7,valid
+2610,2610,2610,explain disposable cards me?,7,valid
+2611,2611,2611,"anyway, get disposable virtual card?",7,valid
+2612,2612,2612,purchased disposable virtual card. able use online purchases immediately?,7,valid
+2613,2613,2613,secure disposable virtual card,7,valid
+2614,2614,2614,get disposable virtual card?,7,valid
+2615,2615,2615,want get disposable virtual card.,7,valid
+2616,2616,2616,explain disposable cards?,7,valid
+2617,2617,2617,get virtual card one time use,7,valid
+2618,2618,2618,may get disposable virtual card well?,7,valid
+2619,2619,2619,get single use virtual card,7,valid
+2620,2620,2620,would like create disposable virtual card. go that?,7,valid
+2621,2621,2621,"disposable virtual card here, would tell it?",7,valid
+2622,2622,2622,virtual card work,7,valid
+2623,2623,2623,process obtaining disposable virtual card,7,valid
+2624,2624,2624,disposable virtual card do?,7,valid
+2625,2625,2625,order disposable virtual card?,7,valid
+2626,2626,2626,possible also get disposable virtual card?,7,valid
+2627,2627,2627,obtain disposable virtual card?,7,valid
+2628,2628,2628,would use disposable card?,7,valid
+2629,2629,2629,"need disposable virtual card, get one?",7,valid
+2630,2630,2630,disposable cards work?,7,valid
+2631,2631,2631,disposable virtual card order?,7,valid
+2632,2632,2632,get disposable virtual card?,7,valid
+2633,2633,2633,able get disposable virtual card well?,7,valid
+2634,2634,2634,hello! need order disposable virtual card. at?,7,valid
+2635,2635,2635,request disposable virtual card?,7,valid
+2636,2636,2636,get throw away card,7,valid
+2637,2637,2637,many transactions make disposable card,7,valid
+2638,2638,2638,disposable cards?,7,valid
+2639,2639,2639,what's process getting disposable virtual card?,7,valid
+2640,2640,2640,app denied topped up.,8,valid
+2641,2641,2641,"heyy tried top card today failed! got couple days worked last time. what's going on, double check please?",8,valid
+2642,2642,2642,top didn't go through. why?,8,valid
+2643,2643,2643,"so, tried topping card today. unfortunately, failed. couple days back used works fine. double check tell what's going on?",8,valid
+2644,2644,2644,app deny top up?,8,valid
+2645,2645,2645,please tell top-up failed.,8,valid
+2646,2646,2646,top-up isn't working.,8,valid
+2647,2647,2647,attempted top app denied it.,8,valid
+2648,2648,2648,reason top-up fail for?,8,valid
+2649,2649,2649,didn`t topup go through?,8,valid
+2650,2650,2650,check see top-up worked?,8,valid
+2651,2651,2651,top didn't work.,8,valid
+2652,2652,2652,top failed.,8,valid
+2653,2653,2653,would topup not go through?,8,valid
+2654,2654,2654,caused top not work?,8,valid
+2655,2655,2655,top not work?,8,valid
+2656,2656,2656,top-up unsuccessful?,8,valid
+2657,2657,2657,funding card didn't go through.,8,valid
+2658,2658,2658,need know credit card declined top up? deal not go through?,8,valid
+2659,2659,2659,topped app not accept it.,8,valid
+2660,2660,2660,app denied top-up,8,valid
+2661,2661,2661,think top not work,8,valid
+2662,2662,2662,top denied app.,8,valid
+2663,2663,2663,tell pop-up went through?,8,valid
+2664,2664,2664,check wasn't able top up?,8,valid
+2665,2665,2665,top-up fail?,8,valid
+2666,2666,2666,"top-up failed, why?",8,valid
+2667,2667,2667,tried top up. denied?,8,valid
+2668,2668,2668,what's deal? card denied top up. not going through?,8,valid
+2669,2669,2669,don't think top working correctly,8,valid
+2670,2670,2670,app let top account,8,valid
+2671,2671,2671,i'm not sure top request denied,8,valid
+2672,2672,2672,can't top up?,8,valid
+2673,2673,2673,top-up failed.,8,valid
+2674,2674,2674,problems top,8,valid
+2675,2675,2675,"really need money card today, card getting declined. please help!!",8,valid
+2676,2676,2676,know top unsuccessful?,8,valid
+2677,2677,2677,i'm pretty sure top failed. fix this?,8,valid
+2678,2678,2678,isnt top working,8,valid
+2679,2679,2679,tell top didn't work?,8,valid
+2680,2680,2680,made transfer hours ago uk banking account. not yet see transfer. please check me.,71,valid
+2681,2681,2681,balance account didnt change transferred money,71,valid
+2682,2682,2682,long take transferred money show up?,71,valid
+2683,2683,2683,didn't balance change transferred money?,71,valid
+2684,2684,2684,balance update transfer?,71,valid
+2685,2685,2685,long take international transfer account?,71,valid
+2686,2686,2686,amount time transfers usually take uk account what?i completed transfer not showing all. i'm wondering point everything actually okay.,71,valid
+2687,2687,2687,transfer available account.,71,valid
+2688,2688,2688,didn't get money transferred,71,valid
+2689,2689,2689,completed bank transfer balance didn't update,71,valid
+2690,2690,2690,transferred money think gotten lost somewhere.,71,valid
+2691,2691,2691,long uk transfer take?,71,valid
+2692,2692,2692,hello made bank transfer couple hours ago uk account show yet. please check everything alright it?,71,valid
+2693,2693,2693,made transfer still waiting.,71,valid
+2694,2694,2694,made country transfer hasn't went yet.,71,valid
+2695,2695,2695,"transfer, balance not update.",71,valid
+2696,2696,2696,"could please check one transfer made hours ago uk bank account, not showing yet.",71,valid
+2697,2697,2697,cash transferred balance not change.,71,valid
+2698,2698,2698,can't see latest bank transfer,71,valid
+2699,2699,2699,bank transfer still not showing account.,71,valid
+2700,2700,2700,made transfer doesnt' show account.,71,valid
+2701,2701,2701,transferred money yet arrive.,71,valid
+2702,2702,2702,balance same? processed transfer.,71,valid
+2703,2703,2703,don't transfer?,71,valid
+2704,2704,2704,isn't transfer account showing up?,71,valid
+2705,2705,2705,money transferred not show balance.,71,valid
+2706,2706,2706,completed transfer not showing up.,71,valid
+2707,2707,2707,transfer account show,71,valid
+2708,2708,2708,long transfer available,71,valid
+2709,2709,2709,show balance transfer?,71,valid
+2710,2710,2710,"made bank transfer couple hours ago uk account. hasn't appeared, check make sure went through?",71,valid
+2711,2711,2711,transfer pending.,71,valid
+2712,2712,2712,"hey, try make bank transfer uk account hours ago, haven't show yet. please check account make sure everything alright it?",71,valid
+2713,2713,2713,transfer [country]?,71,valid
+2714,2714,2714,made bank transfer account balance not show it.,71,valid
+2715,2715,2715,money? transfered isn't account.,71,valid
+2716,2716,2716,need know time frame typical transfer uk account. made transfer appear. want make sure everything okay.,71,valid
+2717,2717,2717,balance reflect transfer,71,valid
+2718,2718,2718,account balance not gone even though transferred money,71,valid
+2719,2719,2719,see new balance making bank transfer?,71,valid
+2720,2720,2720,think someone took money card. shall do?,49,valid
+2721,2721,2721,withdrawal isn't mind app.,49,valid
+2722,2722,2722,lost wallet see already withdrawing money account. stop this?,49,valid
+2723,2723,2723,"didn't get cash atm, app says",49,valid
+2724,2724,2724,app shows cash didn't get.,49,valid
+2725,2725,2725,random withdrawal app?,49,valid
+2726,2726,2726,suspicious cash withdraw account.,49,valid
+2727,2727,2727,"didn't get cash atm, according app transaction made didn't make it.",49,valid
+2728,2728,2728,app said withdrew cash atm didn't,49,valid
+2729,2729,2729,app says received cash atm didn't.,49,valid
+2730,2730,2730,"freeze bank card, strange withdrawal?",49,valid
+2731,2731,2731,see cash withdrawal not perform.,49,valid
+2732,2732,2732,checked app saw extra cash withdrawal didn't authorize,49,valid
+2733,2733,2733,strange cash withdrawal statement,49,valid
+2734,2734,2734,there's cash withdraw statement didn't make.,49,valid
+2735,2735,2735,think someone using card withdraw money. someone stole wallet. do? urgent.,49,valid
+2736,2736,2736,seeing app cash withdrawal not mine,49,valid
+2737,2737,2737,account weird withdrawal.,49,valid
+2738,2738,2738,i'm unsure withdrawl statement.,49,valid
+2739,2739,2739,"looks like someone else withdrew cash account, help?",49,valid
+2740,2740,2740,think see withdraw not make.,49,valid
+2741,2741,2741,cash showing app not get.,49,valid
+2742,2742,2742,unauthorized cash withdrawal account 500£. definitely didn't make withdrawal. need help.,49,valid
+2743,2743,2743,app showing atm withdrawl didn't make.,49,valid
+2744,2744,2744,odd withdrawal account.,49,valid
+2745,2745,2745,need cancel card got stolen little ago. someone already taken money don't want take anymore. please that?,49,valid
+2746,2746,2746,cancel card? charges account didn't make.,49,valid
+2747,2747,2747,"error, app says made atm withdrawal didn't.",49,valid
+2748,2748,2748,"anyone help me, lost wallet they've started withdrawing account.",49,valid
+2749,2749,2749,notice strange withdrawl statement?,49,valid
+2750,2750,2750,don't recognise cash withdrawal,49,valid
+2751,2751,2751,help! wallet stolen someone taking money out. need money! do?,49,valid
+2752,2752,2752,cash withdrawal transaction unsure of.,49,valid
+2753,2753,2753,didn't take money atm app statement shows did. fix this?,49,valid
+2754,2754,2754,"someone stolen card. even though card me, someone made 500£ cash withdrawal. please help soon possible.",49,valid
+2755,2755,2755,cash didn't get shows app.,49,valid
+2756,2756,2756,problem card. somebody removed money account town haven't to. please freeze account immediately?,49,valid
+2757,2757,2757,atm withdrawl app don't recognize.,49,valid
+2758,2758,2758,cash withdrawal showing didn't do.,49,valid
+2759,2759,2759,app made mistake said made cash withdrawal.,49,valid
+2760,2760,2760,exchange fee?,76,valid
+2761,2761,2761,whats exchange rate,76,valid
+2762,2762,2762,currency exchange fees?,76,valid
+2763,2763,2763,find exchange rate?,76,valid
+2764,2764,2764,base amount cross-currency exchanges?,76,valid
+2765,2765,2765,"work sends world, get discount money exchange?",76,valid
+2766,2766,2766,much pay exchange currencies?,76,valid
+2767,2767,2767,fee exchanging currencies?,76,valid
+2768,2768,2768,much cost exchange currencies?,76,valid
+2769,2769,2769,whats exchange charge,76,valid
+2770,2770,2770,discount someone exchanges currencies frequently?,76,valid
+2771,2771,2771,fee exchange foreign money?,76,valid
+2772,2772,2772,pay exchanging currencies?,76,valid
+2773,2773,2773,cost extra exchange currencies?,76,valid
+2774,2774,2774,fee exchanging foreign currencies?,76,valid
+2775,2775,2775,charged fee exchanging foreign currencies?,76,valid
+2776,2776,2776,"much cross currency exchange, check see discounts available?",76,valid
+2777,2777,2777,offer discount multiple currency exchanges?,76,valid
+2778,2778,2778,much pay exchange fee?,76,valid
+2779,2779,2779,"want exchange currency, extras?",76,valid
+2780,2780,2780,need exchange currency extra fee?,76,valid
+2781,2781,2781,wondering discounts offered frequent currency exchanges?,76,valid
+2782,2782,2782,would charged exchanging currencies?,76,valid
+2783,2783,2783,exchange fee?,76,valid
+2784,2784,2784,cost exchange currencies card?,76,valid
+2785,2785,2785,much charge exhcange,76,valid
+2786,2786,2786,extra hidden fees exchanging currencies?,76,valid
+2787,2787,2787,"travel, cost switch currency?",76,valid
+2788,2788,2788,much pay exchange foreign currency?,76,valid
+2789,2789,2789,cost money currency exchange services?,76,valid
+2790,2790,2790,extra charges exchanging currency?,76,valid
+2791,2791,2791,"need exchange currencies frequently, able get discount?",76,valid
+2792,2792,2792,charge foreign currency exchange?,76,valid
+2793,2793,2793,discount frequently exchanging currencies?,76,valid
+2794,2794,2794,cost exchange fee?,76,valid
+2795,2795,2795,cost money currency needs exchanged?,76,valid
+2796,2796,2796,"would like exchange currencies, extra charge so?",76,valid
+2797,2797,2797,cost anything exchanges?,76,valid
+2798,2798,2798,exchange money abroad without additional costs?,76,valid
+2799,2799,2799,cost exchange currencies?,76,valid
+2800,2800,2800,fee using european bank card top up?,73,valid
+2801,2801,2801,fees adding money international card?,73,valid
+2802,2802,2802,charged used us issued card. cards free use add money,73,valid
+2803,2803,2803,hidden fees associated international card money added?,73,valid
+2804,2804,2804,get charged topping card?,73,valid
+2805,2805,2805,charges topping us cards?,73,valid
+2806,2806,2806,fees top ups?,73,valid
+2807,2807,2807,charges us cards top up.,73,valid
+2808,2808,2808,additional charge topping using european card?,73,valid
+2809,2809,2809,exchange top ups take fees?,73,valid
+2810,2810,2810,topped card charged it?,73,valid
+2811,2811,2811,much cost top card?,73,valid
+2812,2812,2812,fees use european bank card top up?,73,valid
+2813,2813,2813,top-up fees?,73,valid
+2814,2814,2814,much charge top card?,73,valid
+2815,2815,2815,much expect pay top us card?,73,valid
+2816,2816,2816,fee included top card?,73,valid
+2817,2817,2817,"use european bank card top up, get charged?",73,valid
+2818,2818,2818,extra fees european bank card top up?,73,valid
+2819,2819,2819,charged use european bank card top up?,73,valid
+2820,2820,2820,want use european bank card top up. must pay?,73,valid
+2821,2821,2821,charged topping card?,73,valid
+2822,2822,2822,fee topping,73,valid
+2823,2823,2823,charge top ups?,73,valid
+2824,2824,2824,cost anything top us card?,73,valid
+2825,2825,2825,topping card fee?,73,valid
+2826,2826,2826,fees adding money using international card,73,valid
+2827,2827,2827,"using us card, cost top up/off?",73,valid
+2828,2828,2828,"need use european card top up, charge be?",73,valid
+2829,2829,2829,okay use bank card top,73,valid
+2830,2830,2830,fee topping up?,73,valid
+2831,2831,2831,fees top ups?,73,valid
+2832,2832,2832,fees using international card add money?,73,valid
+2833,2833,2833,charge discount use european bank top up?,73,valid
+2834,2834,2834,fee top ups?,73,valid
+2835,2835,2835,top using international card,73,valid
+2836,2836,2836,happen want add money using international card? run fees?,73,valid
+2837,2837,2837,extra fees adding money international card?,73,valid
+2838,2838,2838,fees top ups?,73,valid
+2839,2839,2839,top charges us cards?,73,valid
+2840,2840,2840,could please activate card,56,valid
+2841,2841,2841,need activate card now?,56,valid
+2842,2842,2842,need activate new card?,56,valid
+2843,2843,2843,tell go activating new card?,56,valid
+2844,2844,2844,activate card start using it?,56,valid
+2845,2845,2845,long take activate new card?,56,valid
+2846,2846,2846,what's right way activate card?,56,valid
+2847,2847,2847,"received new card, activated?",56,valid
+2848,2848,2848,way new card renewed?,56,valid
+2849,2849,2849,activate card received?,56,valid
+2850,2850,2850,can't activate card?,56,valid
+2851,2851,2851,process card activation?,56,valid
+2852,2852,2852,card missing,56,valid
+2853,2853,2853,got new card go activate it?,56,valid
+2854,2854,2854,would like use card need activate first. help this?,56,valid
+2855,2855,2855,need help activating new card.,56,valid
+2856,2856,2856,activate card?,56,valid
+2857,2857,2857,"please, activate card",56,valid
+2858,2858,2858,tried activating bill fare didn't workplace,56,valid
+2859,2859,2859,"got card want use it, activate card?",56,valid
+2860,2860,2860,new card want activate,56,valid
+2861,2861,2861,assist please card activation.,56,valid
+2862,2862,2862,need help activating card,56,valid
+2863,2863,2863,start using card?,56,valid
+2864,2864,2864,activating card,56,valid
+2865,2865,2865,card activated?,56,valid
+2866,2866,2866,activate card>,56,valid
+2867,2867,2867,steps order activate new card?,56,valid
+2868,2868,2868,go activating new card?,56,valid
+2869,2869,2869,activation process new card?,56,valid
+2870,2870,2870,would like get help someone activating card.,56,valid
+2871,2871,2871,process activating card?,56,valid
+2872,2872,2872,use new card?,56,valid
+2873,2873,2873,got new card not sure need activated how?,56,valid
+2874,2874,2874,steps activating new card?,56,valid
+2875,2875,2875,"would like activate card use now, help me?",56,valid
+2876,2876,2876,activate new card?,56,valid
+2877,2877,2877,got card & don't know activate it.,56,valid
+2878,2878,2878,got new card. activate it?,56,valid
+2879,2879,2879,need activate card?,56,valid
+2880,2880,2880,see fees cash withdraw.,39,valid
+2881,2881,2881,come charged extra withdrew cash?,39,valid
+2882,2882,2882,charged withdraw cash?,39,valid
+2883,2883,2883,charge account cash withdrawl?,39,valid
+2884,2884,2884,fees charged cash withdrawals? went withdraw money earlier today shopping. there's fee wasn't before.,39,valid
+2885,2885,2885,"come charge cash withdrawals? withdrew cash buying groceries today, seems new fee",39,valid
+2886,2886,2886,looks like charged withdrawal fee going atm. haven't charged previously so?,39,valid
+2887,2887,2887,"atm cash withdrawals carry charge now? they've free past, sudden pay make atm withdrawals?",39,valid
+2888,2888,2888,extra charge money withdrawn?,39,valid
+2889,2889,2889,charged fee withdrawing cash?,39,valid
+2890,2890,2890,get fee?,39,valid
+2891,2891,2891,cash get charged fee not there.,39,valid
+2892,2892,2892,pay fee got cash?,39,valid
+2893,2893,2893,"hi, calling recent transaction happened account. recently went atm, tried make withdrawal account. happened check transaction slip noticed fee withdrawal. resolve this, didn't know fees charged type action.",39,valid
+2894,2894,2894,fee charged recent withdrawal.,39,valid
+2895,2895,2895,got fee atm withdrawal.,39,valid
+2896,2896,2896,reason fee got simple cash withdrawal?,39,valid
+2897,2897,2897,start charging cash withdrawals? thought free far noticed suddendly fee. much need pay?,39,valid
+2898,2898,2898,fee withdrawing cash?,39,valid
+2899,2899,2899,"i've notice charged withdrawing cash, explain why?",39,valid
+2900,2900,2900,account charged using atm?,39,valid
+2901,2901,2901,charge account taking cash?,39,valid
+2902,2902,2902,atm fee attached recent withdrawal.,39,valid
+2903,2903,2903,thought cash withdrawals didn't fee,39,valid
+2904,2904,2904,get charged fee tried obtain cash?,39,valid
+2905,2905,2905,"checking grocery store, realized needed cash requested some. however, noticed fee transaction. get charged fee?",39,valid
+2906,2906,2906,using atm caused incur additional fee. why?,39,valid
+2907,2907,2907,charged extra withdrawal,39,valid
+2908,2908,2908,limit much withdraw account without charged?,39,valid
+2909,2909,2909,"thought cash withdrawals free? charged fee? also, much fee?",39,valid
+2910,2910,2910,"fees, time withdrawing cash. robbing me?",39,valid
+2911,2911,2911,never charged fee cash withdrawal before. change?,39,valid
+2912,2912,2912,charged cash withdrawal.,39,valid
+2913,2913,2913,charge cash withdrawal?,39,valid
+2914,2914,2914,took cash got charged fee,39,valid
+2915,2915,2915,charged atm fee despite small withdrawal 1st day month. thought allowed 200 per month?,39,valid
+2916,2916,2916,wrong fee charged atm.,39,valid
+2917,2917,2917,"got cash, i'm pretty sure glitch overcharged me.",39,valid
+2918,2918,2918,"account got charged taking cash, happen?",39,valid
+2919,2919,2919,fee withdrawing?,39,valid
+2920,2920,2920,able order new card sent china?,24,valid
+2921,2921,2921,able send new card china?,24,valid
+2922,2922,2922,card expires happens account?,24,valid
+2923,2923,2923,card expires?,24,valid
+2924,2924,2924,expiration date card coming,24,valid
+2925,2925,2925,"card's expiring, happens now?",24,valid
+2926,2926,2926,card expire. need do?,24,valid
+2927,2927,2927,long much cost new card,24,valid
+2928,2928,2928,card expiring soon?,24,valid
+2929,2929,2929,much cost get new card? mine almost expired. fast come?,24,valid
+2930,2930,2930,"since card expire, get new one?",24,valid
+2931,2931,2931,card expire need know much costs long takes get new one.,24,valid
+2932,2932,2932,card expires send new card?,24,valid
+2933,2933,2933,next step card expire.,24,valid
+2934,2934,2934,"card expires, do?",24,valid
+2935,2935,2935,"need new card, current card nearly expired.",24,valid
+2936,2936,2936,"appears card expires next month, order new one?",24,valid
+2937,2937,2937,card expire. much cost order new one fast get it?,24,valid
+2938,2938,2938,card expire?,24,valid
+2939,2939,2939,"need get new card soon, order?",24,valid
+2940,2940,2940,going need new card fees time takes,24,valid
+2941,2941,2941,need order new card since mine expires next month?,24,valid
+2942,2942,2942,"card expires, get new one mailed me?",24,valid
+2943,2943,2943,order new card current card expires?,24,valid
+2944,2944,2944,"since card expire, need new one.",24,valid
+2945,2945,2945,card close expiring. order new one so?,24,valid
+2946,2946,2946,"need order new card, mine expire need know much cost long receive it.",24,valid
+2947,2947,2947,order new card expires?,24,valid
+2948,2948,2948,receive new card china?,24,valid
+2949,2949,2949,"next month card expire, need order new one?",24,valid
+2950,2950,2950,expiration date card approaching .,24,valid
+2951,2951,2951,"get new card asap replace old, soon expire one?",24,valid
+2952,2952,2952,need new card since old one expire.,24,valid
+2953,2953,2953,card expire.,24,valid
+2954,2954,2954,"card expiring shortly. much cost replacement, soon get it?",24,valid
+2955,2955,2955,would price expired card replacement long take get it?,24,valid
+2956,2956,2956,"china, need new card",24,valid
+2957,2957,2957,"card expire, need order new one?",24,valid
+2958,2958,2958,card expire. get new one?,24,valid
+2959,2959,2959,need know cost receive new card replace old one.,24,valid
+2960,2960,2960,top feature available apple watch?,32,valid
+2961,2961,2961,use system google pay top-ups?,32,valid
+2962,2962,2962,top-up google pay isn't working,32,valid
+2963,2963,2963,add money apple pay?,32,valid
+2964,2964,2964,use apple watch top up?,32,valid
+2965,2965,2965,apple pay give option top up?,32,valid
+2966,2966,2966,top google pay isn't working.,32,valid
+2967,2967,2967,possible top apple pay?,32,valid
+2968,2968,2968,setup apple pay use,32,valid
+2969,2969,2969,use apple pay top up?,32,valid
+2970,2970,2970,top google pay?,32,valid
+2971,2971,2971,google play app top up?,32,valid
+2972,2972,2972,"received american express card, problems making work apple pay. help problem?",32,valid
+2973,2973,2973,apple pay eligible top,32,valid
+2974,2974,2974,can't use american express apple pay top account?,32,valid
+2975,2975,2975,add money apple watch,32,valid
+2976,2976,2976,"want top up, use apple pay?",32,valid
+2977,2977,2977,top apple pay,32,valid
+2978,2978,2978,"american express experiencing problem apple play top up, fix it?",32,valid
+2979,2979,2979,top not working apple pay.,32,valid
+2980,2980,2980,apple pay possible top option?,32,valid
+2981,2981,2981,don't know top google pay.,32,valid
+2982,2982,2982,top apple watch?,32,valid
+2983,2983,2983,use american express stored apple pay top up?,32,valid
+2984,2984,2984,apple pay costly?,32,valid
+2985,2985,2985,top google pay?,32,valid
+2986,2986,2986,can't top account using american express apple pay.,32,valid
+2987,2987,2987,"got american express apple pay, top not working?",32,valid
+2988,2988,2988,got american express apple bay top not working,32,valid
+2989,2989,2989,top up? use apple watch?,32,valid
+2990,2990,2990,possible use apple pay put money account?,32,valid
+2991,2991,2991,"american express apple pay top failing, why?",32,valid
+2992,2992,2992,top-ff account using apple watch?,32,valid
+2993,2993,2993,google pay used make top-up,32,valid
+2994,2994,2994,get top feature apple watch working?,32,valid
+2995,2995,2995,troubleshoot google pay top up?,32,valid
+2996,2996,2996,top apple pay?,32,valid
+2997,2997,2997,isn't top working using saved american express applepay?,32,valid
+2998,2998,2998,use top app apple watch?,32,valid
+2999,2999,2999,"google pay top up, want it, get it?",32,valid
+3000,3000,3000,use verify identify?,3,valid
+3001,3001,3001,need verify identity?,3,valid
+3002,3002,3002,"need verify identity, that?",3,valid
+3003,3003,3003,verify indentity?,3,valid
+3004,3004,3004,needed prove identity?,3,valid
+3005,3005,3005,need identity check?,3,valid
+3006,3006,3006,verify identity?,3,valid
+3007,3007,3007,specific type need identity verification?,3,valid
+3008,3008,3008,got message need verify identity; do?,3,valid
+3009,3009,3009,documents needed identity check?,3,valid
+3010,3010,3010,steps need take verify identity?,3,valid
+3011,3011,3011,need verify identity,3,valid
+3012,3012,3012,need verify identity,3,valid
+3013,3013,3013,need help identity verification.,3,valid
+3014,3014,3014,what's process id verification?,3,valid
+3015,3015,3015,would like know verify identity.,3,valid
+3016,3016,3016,kind documents need identity check?,3,valid
+3017,3017,3017,let know steps identity checks,3,valid
+3018,3018,3018,verify identity?,3,valid
+3019,3019,3019,steps verify identity?,3,valid
+3020,3020,3020,identity get verified?,3,valid
+3021,3021,3021,things need verify identity?,3,valid
+3022,3022,3022,steps take verify identity?,3,valid
+3023,3023,3023,verify identity online?,3,valid
+3024,3024,3024,details profile match documents,3,valid
+3025,3025,3025,verify identity?,3,valid
+3026,3026,3026,"getting id checked, steps involved?",3,valid
+3027,3027,3027,need anything identity check?,3,valid
+3028,3028,3028,kind documentation need identity check?,3,valid
+3029,3029,3029,go forth verifying identity?,3,valid
+3030,3030,3030,verify identity?,3,valid
+3031,3031,3031,need verify identity?,3,valid
+3032,3032,3032,need show am?,3,valid
+3033,3033,3033,need kind documentation identity check?,3,valid
+3034,3034,3034,need identity verification?,3,valid
+3035,3035,3035,way verify am?,3,valid
+3036,3036,3036,documentation needed identity check?,3,valid
+3037,3037,3037,required show identity check?,3,valid
+3038,3038,3038,identity check?,3,valid
+3039,3039,3039,need verify identity?,3,valid
+3040,3040,3040,live us want get card,68,valid
+3041,3041,3041,cards available europe?,68,valid
+3042,3042,3042,use app eu?,68,valid
+3043,3043,3043,countries supported?,68,valid
+3044,3044,3044,live us still get card?,68,valid
+3045,3045,3045,get card outside uk?,68,valid
+3046,3046,3046,"i'm not uk, still get card?",68,valid
+3047,3047,3047,"i'm not uk, possible still get card?",68,valid
+3048,3048,3048,live us get card?,68,valid
+3049,3049,3049,get one cards eu,68,valid
+3050,3050,3050,get card despite fact i'm not uk?,68,valid
+3051,3051,3051,need live get support?,68,valid
+3052,3052,3052,support eu?,68,valid
+3053,3053,3053,get card usa,68,valid
+3054,3054,3054,"please help get new card, reside united states.",68,valid
+3055,3055,3055,possible get card i'm not uk?,68,valid
+3056,3056,3056,country supported,68,valid
+3057,3057,3057,countries use product?,68,valid
+3058,3058,3058,find locations?,68,valid
+3059,3059,3059,get card even live outside uk?,68,valid
+3060,3060,3060,"eu, sign up?",68,valid
+3061,3061,3061,"would like receive use card europe, possible?",68,valid
+3062,3062,3062,countries support?,68,valid
+3063,3063,3063,countries currently in?,68,valid
+3064,3064,3064,locations in?,68,valid
+3065,3065,3065,tell countries operate in?,68,valid
+3066,3066,3066,"need card, i'm us moment.",68,valid
+3067,3067,3067,countries card supported in?,68,valid
+3068,3068,3068,list countries operate in?,68,valid
+3069,3069,3069,countries business?,68,valid
+3070,3070,3070,don't live uk. still get card?,68,valid
+3071,3071,3071,support?,68,valid
+3072,3072,3072,able get card eu?,68,valid
+3073,3073,3073,countries currently business in?,68,valid
+3074,3074,3074,"i'm not uk, get card?",68,valid
+3075,3075,3075,"i'm not uk, still get card?",68,valid
+3076,3076,3076,many countries support?,68,valid
+3077,3077,3077,countries business in?,68,valid
+3078,3078,3078,countries operate in.,68,valid
+3079,3079,3079,card mailed used europe?,68,valid
